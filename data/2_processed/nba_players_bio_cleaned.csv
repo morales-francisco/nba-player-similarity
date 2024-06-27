@@ -1,0 +1,478 @@
+Name,Position,Shoots,Date Born,College,NBA Debut,Experience,Player Image,Height,Weight,Draft Team,Draft Year,Draft Round
+Stephen Curry, Point Guard, Right,1988-03-14,Davidson,2009-10-28,14,https://www.basketball-reference.com/req/202106291/images/headshots/curryst01.jpg,188,83,Golden State Warriors,2009,1st round
+Kevin Durant," Small Forward, Power Forward, and Shooting Guard", Right,1988-09-29,Texas,2007-10-31,15,https://www.basketball-reference.com/req/202106291/images/headshots/duranke01.jpg,208,108,Seattle SuperSonics,2007,1st round
+Nikola Jokić, Center, Right,1995-02-19,No College,2015-10-28,8,https://www.basketball-reference.com/req/202106291/images/headshots/jokicni01.jpg,211,128,Denver Nuggets,2014,2nd round
+Joel Embiid, Center, Right,1994-03-16,Kansas,2016-10-26,7,https://www.basketball-reference.com/req/202106291/images/headshots/embiijo01.jpg,213,127,Philadelphia 76ers,2014,1st round
+LeBron James," Small Forward, Power Forward, Point Guard, Center, and Shooting Guard", Right,1984-12-30,No College,2003-10-29,20,https://www.basketball-reference.com/req/202106291/images/headshots/jamesle01.jpg,206,113,Cleveland Cavaliers,2003,1st round
+Bradley Beal, Shooting Guard, Right,1993-06-28,Florida,2012-10-30,11,https://www.basketball-reference.com/req/202106291/images/headshots/bealbr01.jpg,193,93,Washington Wizards,2012,1st round
+Damian Lillard, Point Guard, Right,1990-07-15,Weber State,2012-10-31,11,https://www.basketball-reference.com/req/202106291/images/headshots/lillada01.jpg,188,88,Portland Trail Blazers,2012,1st round
+Giannis Antetokounmpo," Power Forward, Small Forward, Point Guard, and Shooting Guard", Right,1994-12-06,No College,2013-10-30,10,https://www.basketball-reference.com/req/202106291/images/headshots/antetgi01.jpg,213,109,Milwaukee Bucks,2013,1st round
+Kawhi Leonard, Small Forward, Right,1991-06-29,San Diego State,2011-12-26,11,https://www.basketball-reference.com/req/202106291/images/headshots/leonaka01.jpg,201,102,Indiana Pacers,2011,1st round
+Paul George," Small Forward, Shooting Guard, and Power Forward", Right,1990-05-02,Fresno State,2010-10-27,13,https://www.basketball-reference.com/req/202106291/images/headshots/georgpa01.jpg,203,99,Indiana Pacers,2010,1st round
+Jimmy Butler," Small Forward, Shooting Guard, and Power Forward", Right,1989-09-14,Marquette,2012-01-01,12,https://www.basketball-reference.com/req/202106291/images/headshots/butleji01.jpg,201,104,Chicago Bulls,2011,1st round
+Klay Thompson, Shooting Guard and Small Forward, Right,1990-02-08,Washington State,2011-12-25,10,https://www.basketball-reference.com/req/202106291/images/headshots/thompkl01.jpg,198,97,Golden State Warriors,2011,1st round
+Rudy Gobert, Center, Right,1992-06-26,No College,2013-10-30,10,https://www.basketball-reference.com/req/202106291/images/headshots/goberru01.jpg,216,117,Denver Nuggets,2013,1st round
+Fred VanVleet, Point Guard and Shooting Guard, Right,1994-02-25,Wichita State,2016-11-09,7,https://www.basketball-reference.com/req/202106291/images/headshots/vanvlfr01.jpg,185,89,Not Drafted,Not Drafted,Not Drafted
+Anthony Davis, Center and Power Forward, Right,1993-03-11,Kentucky,2012-10-31,11,https://www.basketball-reference.com/req/202106291/images/headshots/davisan02.jpg,208,114,New Orleans Hornets,2012,1st round
+Trae Young, Point Guard, Right,1998-09-19,Oklahoma,2018-10-17,5,https://www.basketball-reference.com/req/202106291/images/headshots/youngtr01.jpg,185,74,Dallas Mavericks,2018,1st round
+Luka Dončić, Point Guard and Shooting Guard, Right,1999-02-28,No College,2018-10-17,5,https://www.basketball-reference.com/req/202106291/images/headshots/doncilu01.jpg,201,104,Atlanta Hawks,2018,1st round
+Zach LaVine," Shooting Guard, Small Forward, and Point Guard", Right,1995-03-10,UCLA,2014-10-30,9,https://www.basketball-reference.com/req/202106291/images/headshots/lavinza01.jpg,196,90,Minnesota Timberwolves,2014,1st round
+Tobias Harris, Power Forward and Small Forward, Right,1992-07-15,Tennessee,2012-01-07,12,https://www.basketball-reference.com/req/202106291/images/headshots/harrito02.jpg,203,102,Charlotte Bobcats,2011,1st round
+Ben Simmons, Point Guard, Left,1996-07-20,LSU,2017-10-18,5,https://www.basketball-reference.com/req/202106291/images/headshots/simmobe01.jpg,208,108,Philadelphia 76ers,2016,1st round
+Pascal Siakam, Power Forward, Right,1994-04-02,New Mexico State,2016-10-26,7,https://www.basketball-reference.com/req/202106291/images/headshots/siakapa01.jpg,206,104,Toronto Raptors,2016,1st round
+Kyrie Irving, Point Guard and Shooting Guard, Right,1992-03-23,Duke,2011-12-26,12,https://www.basketball-reference.com/req/202106291/images/headshots/irvinky01.jpg,188,88,Cleveland Cavaliers,2011,1st round
+Jrue Holiday, Point Guard and Shooting Guard, Right,1990-06-12,UCLA,2009-10-30,14,https://www.basketball-reference.com/req/202106291/images/headshots/holidjr01.jpg,193,92,Philadelphia 76ers,2009,1st round
+Devin Booker, Shooting Guard, Right,1996-10-30,Kentucky,2015-10-28,8,https://www.basketball-reference.com/req/202106291/images/headshots/bookede01.jpg,196,93,Phoenix Suns,2015,1st round
+Karl-Anthony Towns, Center and Power Forward, Right,1995-11-15,Kentucky,2015-10-28,8,https://www.basketball-reference.com/req/202106291/images/headshots/townska01.jpg,211,112,Minnesota Timberwolves,2015,1st round
+Kristaps Porziņģis, Power Forward and Center, Right,1995-08-02,No College,2015-10-28,7,https://www.basketball-reference.com/req/202106291/images/headshots/porzikr01.jpg,221,108,New York Knicks,2015,1st round
+CJ McCollum, Shooting Guard, Right,1991-09-19,Lehigh,2014-01-08,10,https://www.basketball-reference.com/req/202106291/images/headshots/mccolcj01.jpg,190,86,Portland Trail Blazers,2013,1st round
+James Harden, Shooting Guard and Point Guard, Left,1989-08-26,Arizona State,2009-10-28,14,https://www.basketball-reference.com/req/202106291/images/headshots/hardeja01.jpg,196,99,Oklahoma City Thunder,2009,1st round
+Zion Williamson, Power Forward, Left,2000-07-06,Duke,2020-01-22,3,https://www.basketball-reference.com/req/202106291/images/headshots/willizi01.jpg,198,128,New Orleans Pelicans,2019,1st round
+Ja Morant, Point Guard, Right,1999-08-10,Murray State,2019-10-23,4,https://www.basketball-reference.com/req/202106291/images/headshots/moranja01.jpg,190,78,Memphis Grizzlies,2019,1st round
+Darius Garland, Point Guard and Shooting Guard, Right,2000-01-26,Vanderbilt,2019-10-23,4,https://www.basketball-reference.com/req/202106291/images/headshots/garlada01.jpg,185,87,Cleveland Cavaliers,2019,1st round
+Brandon Ingram, Small Forward and Power Forward, Right,1997-09-02,Duke,2016-10-26,7,https://www.basketball-reference.com/req/202106291/images/headshots/ingrabr01.jpg,203,86,Los Angeles Lakers,2016,1st round
+Jamal Murray, Point Guard and Shooting Guard, Right,1997-02-23,Kentucky,2016-10-26,6,https://www.basketball-reference.com/req/202106291/images/headshots/murraja01.jpg,193,97,Denver Nuggets,2016,1st round
+Shai Gilgeous-Alexander, Point Guard and Shooting Guard, Right,1998-07-12,Kentucky,2018-10-17,5,https://www.basketball-reference.com/req/202106291/images/headshots/gilgesh01.jpg,198,81,Charlotte Hornets,2018,1st round
+Michael Porter Jr., Small Forward, Right,1998-06-29,Missouri,2019-10-31,4,https://www.basketball-reference.com/req/202106291/images/headshots/portemi01.jpg,208,98,Denver Nuggets,2018,1st round
+Donovan Mitchell, Shooting Guard and Point Guard, Right,1996-09-07,Louisville,2017-10-18,6,https://www.basketball-reference.com/req/202106291/images/headshots/mitchdo01.jpg,185,97,Denver Nuggets,2017,1st round
+De'Aaron Fox, Point Guard, Left,1997-12-20,Kentucky,2017-10-18,6,https://www.basketball-reference.com/req/202106291/images/headshots/foxde01.jpg,190,83,Sacramento Kings,2017,1st round
+Bam Adebayo, Center and Power Forward, Right,1997-07-18,Kentucky,2017-10-18,6,https://www.basketball-reference.com/req/202106291/images/headshots/adebaba01.jpg,206,115,Miami Heat,2017,1st round
+Jayson Tatum, Small Forward and Power Forward, Right,1998-03-03,Duke,2017-10-17,6,https://www.basketball-reference.com/req/202106291/images/headshots/tatumja01.jpg,203,95,Boston Celtics,2017,1st round
+Deandre Ayton, Center, Right,1998-07-23,Arizona,2018-10-17,5,https://www.basketball-reference.com/req/202106291/images/headshots/aytonde01.jpg,211,113,Phoenix Suns,2018,1st round
+Jaylen Brown, Shooting Guard and Small Forward, Right,1996-10-24,California,2016-10-26,7,https://www.basketball-reference.com/req/202106291/images/headshots/brownja02.jpg,198,101,Boston Celtics,2016,1st round
+Gordon Hayward, Small Forward and Power Forward, Right,1990-03-23,Butler,2010-10-27,13,https://www.basketball-reference.com/req/202106291/images/headshots/haywago01.jpg,201,102,Utah Jazz,2010,1st round
+Chris Paul, Point Guard, Right,1985-05-06,Wake Forest,2005-11-01,18,https://www.basketball-reference.com/req/202106291/images/headshots/paulch01.jpg,183,79,New Orleans Hornets,2005,1st round
+Domantas Sabonis, Power Forward and Center, Left,1996-05-03,Gonzaga,2016-10-26,7,https://www.basketball-reference.com/req/202106291/images/headshots/sabondo01.jpg,211,108,Orlando Magic,2016,1st round
+Kyle Lowry, Point Guard, Right,1986-03-25,Villanova,2006-11-01,17,https://www.basketball-reference.com/req/202106291/images/headshots/lowryky01.jpg,183,88,Memphis Grizzlies,2006,1st round
+Khris Middleton, Small Forward and Shooting Guard, Right,1991-08-12,Texas A&amp;M,2012-11-10,11,https://www.basketball-reference.com/req/202106291/images/headshots/middlkh01.jpg,201,100,Detroit Pistons,2012,2nd round
+DeMar DeRozan," Shooting Guard, Small Forward, and Power Forward", Right,1989-08-07,USC,2009-10-28,14,https://www.basketball-reference.com/req/202106291/images/headshots/derozde01.jpg,198,99,Toronto Raptors,2009,1st round
+Julius Randle, Power Forward and Center, Left,1994-11-29,Kentucky,2014-10-28,9,https://www.basketball-reference.com/req/202106291/images/headshots/randlju01.jpg,203,113,Los Angeles Lakers,2014,1st round
+Jerami Grant, Power Forward and Small Forward, Right,1994-03-12,Syracuse,2014-11-29,9,https://www.basketball-reference.com/req/202106291/images/headshots/grantje01.jpg,203,95,Philadelphia 76ers,2014,2nd round
+Jordan Poole, Shooting Guard and Point Guard, Right,1999-06-19,Michigan,2019-10-24,4,https://www.basketball-reference.com/req/202106291/images/headshots/poolejo01.jpg,193,87,Golden State Warriors,2019,1st round
+Jaren Jackson Jr., Center and Power Forward, Right,1999-09-15,Michigan State,2018-10-17,5,https://www.basketball-reference.com/req/202106291/images/headshots/jacksja02.jpg,211,109,Memphis Grizzlies,2018,1st round
+Tyler Herro, Shooting Guard, Right,2000-01-20,Kentucky,2019-10-23,4,https://www.basketball-reference.com/req/202106291/images/headshots/herroty01.jpg,196,88,Miami Heat,2019,1st round
+Jalen Brunson, Point Guard and Shooting Guard, Left,1996-08-31,Villanova,2018-10-17,5,https://www.basketball-reference.com/req/202106291/images/headshots/brunsja01.jpg,188,86,Dallas Mavericks,2018,2nd round
+Cameron Johnson, Power Forward, Right,1996-03-03,No College,2019-10-26,4,https://www.basketball-reference.com/req/202106291/images/headshots/johnsca02.jpg,203,95,Minnesota Timberwolves,2019,1st round
+Kyle Kuzma, Power Forward and Small Forward, Right,1995-07-24,Utah,2017-10-19,6,https://www.basketball-reference.com/req/202106291/images/headshots/kuzmaky01.jpg,206,100,Brooklyn Nets,2017,1st round
+John Collins, Power Forward, Right,1997-09-23,Wake Forest,2017-10-18,6,https://www.basketball-reference.com/req/202106291/images/headshots/collijo01.jpg,206,106,Atlanta Hawks,2017,1st round
+Brook Lopez, Center, Right,1988-04-01,Stanford,2008-10-29,15,https://www.basketball-reference.com/req/202106291/images/headshots/lopezbr01.jpg,213,127,New Jersey Nets,2008,1st round
+Mike Conley, Point Guard, Left,1987-10-11,Ohio State,2007-11-07,16,https://www.basketball-reference.com/req/202106291/images/headshots/conlemi01.jpg,185,79,Memphis Grizzlies,2007,1st round
+Andrew Wiggins, Small Forward and Power Forward, Right,1995-02-23,Kansas,2014-10-29,9,https://www.basketball-reference.com/req/202106291/images/headshots/wiggian01.jpg,201,89,Cleveland Cavaliers,2014,1st round
+Anfernee Simons, Shooting Guard, Right,1999-06-08,No College,2018-10-30,5,https://www.basketball-reference.com/req/202106291/images/headshots/simonan01.jpg,190,82,Portland Trail Blazers,2018,1st round
+RJ Barrett, Shooting Guard and Small Forward, Left,2000-06-14,Duke,2019-10-23,4,https://www.basketball-reference.com/req/202106291/images/headshots/barrerj01.jpg,198,97,New York Knicks,2019,1st round
+Jordan Clarkson, Shooting Guard and Point Guard, Right,1992-06-07,No College,2014-10-28,9,https://www.basketball-reference.com/req/202106291/images/headshots/clarkjo01.jpg,193,87,Washington Wizards,2014,2nd round
+Terry Rozier, Point Guard and Shooting Guard, Right,1994-03-17,Louisville,2015-10-28,8,https://www.basketball-reference.com/req/202106291/images/headshots/roziete01.jpg,185,86,Boston Celtics,2015,1st round
+Dillon Brooks, Small Forward and Shooting Guard, Right,1996-01-22,Oregon,2017-10-18,6,https://www.basketball-reference.com/req/202106291/images/headshots/brookdi01.jpg,201,102,Houston Rockets,2017,2nd round
+Malcolm Brogdon, Point Guard and Shooting Guard, Right,1992-12-11,Virginia,2016-10-26,7,https://www.basketball-reference.com/req/202106291/images/headshots/brogdma01.jpg,196,103,Milwaukee Bucks,2016,2nd round
+Draymond Green, Power Forward and Small Forward, Right,1990-03-04,Michigan State,2012-10-31,11,https://www.basketball-reference.com/req/202106291/images/headshots/greendr01.jpg,198,104,Golden State Warriors,2012,2nd round
+Aaron Gordon, Power Forward and Small Forward, Right,1995-09-16,Arizona,2014-10-28,9,https://www.basketball-reference.com/req/202106291/images/headshots/gordoaa01.jpg,203,106,Orlando Magic,2014,1st round
+Bruce Brown," Point Guard, Small Forward, and Shooting Guard", Right,1996-08-15,Miami (FL),2018-10-17,5,https://www.basketball-reference.com/req/202106291/images/headshots/brownbr01.jpg,193,91,Detroit Pistons,2018,2nd round
+Mikal Bridges, Small Forward and Shooting Guard, Right,1996-08-30,Villanova,2018-10-17,5,https://www.basketball-reference.com/req/202106291/images/headshots/bridgmi01.jpg,198,94,Philadelphia 76ers,2018,1st round
+Myles Turner, Center, Right,1996-03-24,Texas,2015-10-29,8,https://www.basketball-reference.com/req/202106291/images/headshots/turnemy01.jpg,211,113,Indiana Pacers,2015,1st round
+Clint Capela, Center, Right,1994-05-18,No College,2014-11-06,9,https://www.basketball-reference.com/req/202106291/images/headshots/capelca01.jpg,208,108,Houston Rockets,2014,1st round
+Lonzo Ball, Point Guard, Right,1997-10-27,UCLA,2017-10-19,5,https://www.basketball-reference.com/req/202106291/images/headshots/balllo01.jpg,198,86,Los Angeles Lakers,2017,1st round
+Spencer Dinwiddie, Point Guard and Shooting Guard, Right,1993-04-06,Colorado,2014-10-29,9,https://www.basketball-reference.com/req/202106291/images/headshots/dinwisp01.jpg,196,97,Detroit Pistons,2014,2nd round
+De'Andre Hunter, Small Forward, Right,1997-12-02,Virginia,2019-10-24,4,https://www.basketball-reference.com/req/202106291/images/headshots/huntede01.jpg,203,102,Los Angeles Lakers,2019,1st round
+Keldon Johnson, Small Forward, Right,1999-10-11,Kentucky,2019-11-22,4,https://www.basketball-reference.com/req/202106291/images/headshots/johnske04.jpg,196,99,San Antonio Spurs,2019,1st round
+Jarrett Allen, Center, Right,1998-04-21,Texas,2017-10-20,6,https://www.basketball-reference.com/req/202106291/images/headshots/allenja01.jpg,211,110,Brooklyn Nets,2017,1st round
+Bojan Bogdanović, Small Forward and Power Forward, Right,1989-04-18,No College,2014-10-29,9,https://www.basketball-reference.com/req/202106291/images/headshots/bogdabo02.jpg,201,102,Miami Heat,2011,2nd round
+Joe Harris, Shooting Guard and Small Forward, Right,1991-09-06,Virginia,2014-10-31,9,https://www.basketball-reference.com/req/202106291/images/headshots/harrijo01.jpg,198,99,Cleveland Cavaliers,2014,2nd round
+Jakob Poeltl, Center, Right,1995-10-15,Utah,2016-10-26,7,https://www.basketball-reference.com/req/202106291/images/headshots/poeltja01.jpg,216,111,Toronto Raptors,2016,1st round
+Buddy Hield, Shooting Guard and Small Forward, Right,1992-12-17,Oklahoma,2016-10-26,7,https://www.basketball-reference.com/req/202106291/images/headshots/hieldbu01.jpg,193,99,New Orleans Pelicans,2016,1st round
+Evan Fournier, Shooting Guard and Small Forward, Right,1992-10-29,No College,2012-10-31,11,https://www.basketball-reference.com/req/202106291/images/headshots/fournev01.jpg,201,92,Denver Nuggets,2012,1st round
+Marcus Smart, Point Guard and Shooting Guard, Right,1994-03-06,Oklahoma State,2014-10-29,9,https://www.basketball-reference.com/req/202106291/images/headshots/smartma01.jpg,190,99,Boston Celtics,2014,1st round
+Bogdan Bogdanović, Shooting Guard, Right,1992-08-18,No College,2017-10-23,6,https://www.basketball-reference.com/req/202106291/images/headshots/bogdabo01.jpg,198,99,Phoenix Suns,2014,1st round
+OG Anunoby, Small Forward, Right,1997-07-17,Indiana,2017-10-19,6,https://www.basketball-reference.com/req/202106291/images/headshots/anunoog01.jpg,201,105,Toronto Raptors,2017,1st round
+Gary Trent Jr., Shooting Guard and Small Forward, Right,1999-01-18,Duke,2018-11-04,5,https://www.basketball-reference.com/req/202106291/images/headshots/trentga02.jpg,196,94,Sacramento Kings,2018,2nd round
+Nikola Vučević, Center, Right,1990-10-24,USC,2011-12-28,12,https://www.basketball-reference.com/req/202106291/images/headshots/vucevni01.jpg,208,117,Philadelphia 76ers,2011,1st round
+Derrick White, Shooting Guard and Point Guard, Right,1994-07-02,No College,2017-10-18,6,https://www.basketball-reference.com/req/202106291/images/headshots/whitede01.jpg,193,86,San Antonio Spurs,2017,1st round
+Dejounte Murray, Point Guard and Shooting Guard, Right,1996-09-19,Washington,2016-10-29,6,https://www.basketball-reference.com/req/202106291/images/headshots/murrade01.jpg,193,81,San Antonio Spurs,2016,1st round
+Duncan Robinson, Small Forward and Shooting Guard, Right,1994-04-22,No College,2018-10-24,5,https://www.basketball-reference.com/req/202106291/images/headshots/robindu01.jpg,201,97,Not Drafted,Not Drafted,Not Drafted
+Norman Powell, Shooting Guard and Small Forward, Right,1993-05-25,UCLA,2015-11-01,8,https://www.basketball-reference.com/req/202106291/images/headshots/powelno01.jpg,190,97,Milwaukee Bucks,2015,2nd round
+Tim Hardaway Jr., Shooting Guard and Small Forward, Right,1992-03-16,Michigan,2013-10-30,10,https://www.basketball-reference.com/req/202106291/images/headshots/hardati02.jpg,196,92,New York Knicks,2013,1st round
+Jonathan Isaac, Power Forward, Right,1997-10-03,Florida State,2017-10-18,4,https://www.basketball-reference.com/req/202106291/images/headshots/isaacjo01.jpg,211,104,Orlando Magic,2017,1st round
+Collin Sexton, Point Guard and Shooting Guard, Right,1999-01-04,Alabama,2018-10-17,5,https://www.basketball-reference.com/req/202106291/images/headshots/sextoco01.jpg,185,86,Cleveland Cavaliers,2018,1st round
+D'Angelo Russell, Point Guard, Left,1996-02-23,Ohio State,2015-10-28,8,https://www.basketball-reference.com/req/202106291/images/headshots/russeda01.jpg,193,87,Los Angeles Lakers,2015,1st round
+Lauri Markkanen, Power Forward and Small Forward, Right,1997-05-22,Arizona,2017-10-19,6,https://www.basketball-reference.com/req/202106291/images/headshots/markkla01.jpg,213,108,Minnesota Timberwolves,2017,1st round
+Marcus Morris, Power Forward and Small Forward, Right,1989-09-02,Kansas,2011-12-26,12,https://www.basketball-reference.com/req/202106291/images/headshots/morrima03.jpg,203,98,Houston Rockets,2011,1st round
+Harrison Barnes, Power Forward and Small Forward, Right,1992-05-30,UNC,2012-10-31,11,https://www.basketball-reference.com/req/202106291/images/headshots/barneha02.jpg,203,102,Golden State Warriors,2012,1st round
+Dāvis Bertāns, Power Forward, Right,1992-11-12,No College,2016-10-25,7,https://www.basketball-reference.com/req/202106291/images/headshots/bertada01.jpg,208,102,Indiana Pacers,2011,2nd round
+Markelle Fultz, Point Guard and Shooting Guard, Right,1998-05-29,Washington,2017-10-18,6,https://www.basketball-reference.com/req/202106291/images/headshots/fultzma01.jpg,190,94,Philadelphia 76ers,2017,1st round
+Jusuf Nurkić, Center, Right,1994-08-23,No College,2014-10-29,9,https://www.basketball-reference.com/req/202106291/images/headshots/nurkiju01.jpg,211,131,Chicago Bulls,2014,1st round
+P.J. Washington, Power Forward and Center, Right,1998-08-23,Kentucky,2019-10-23,4,https://www.basketball-reference.com/req/202106291/images/headshots/washipj01.jpg,201,104,Charlotte Hornets,2019,1st round
+Kevin Porter Jr.," Point Guard, Shooting Guard, and Small Forward", Left,2000-05-04,USC,2019-10-23,4,https://www.basketball-reference.com/req/202106291/images/headshots/porteke02.jpg,193,92,Milwaukee Bucks,2019,1st round
+Rui Hachimura, Power Forward, Right,1998-02-08,Gonzaga,2019-10-23,4,https://www.basketball-reference.com/req/202106291/images/headshots/hachiru01.jpg,203,104,Washington Wizards,2019,1st round
+Mitchell Robinson, Center, Right,1998-04-01,Western Kentucky,2018-10-17,5,https://www.basketball-reference.com/req/202106291/images/headshots/robinmi01.jpg,213,108,New York Knicks,2018,2nd round
+Kevin Huerter, Shooting Guard and Small Forward, Right,1998-08-27,Maryland,2018-10-17,5,https://www.basketball-reference.com/req/202106291/images/headshots/huertke01.jpg,201,86,Atlanta Hawks,2018,1st round
+Jonas Valančiūnas, Center, Right,1992-05-06,No College,2012-10-31,11,https://www.basketball-reference.com/req/202106291/images/headshots/valanjo01.jpg,211,120,Toronto Raptors,2011,1st round
+Caris LeVert, Shooting Guard and Small Forward, Right,1994-08-25,Michigan,2016-12-07,7,https://www.basketball-reference.com/req/202106291/images/headshots/leverca01.jpg,198,92,Indiana Pacers,2016,1st round
+Luguentz Dort, Small Forward and Shooting Guard, Right,1999-04-19,Arizona State,2019-12-06,4,https://www.basketball-reference.com/req/202106291/images/headshots/dortlu01.jpg,190,97,Not Drafted,Not Drafted,Not Drafted
+Luke Kennard, Shooting Guard, Left,1996-06-24,Duke,2017-10-20,6,https://www.basketball-reference.com/req/202106291/images/headshots/kennalu01.jpg,196,93,Detroit Pistons,2017,1st round
+Kentavious Caldwell-Pope, Shooting Guard, Right,1993-02-18,Georgia,2013-10-30,10,https://www.basketball-reference.com/req/202106291/images/headshots/caldwke01.jpg,196,92,Detroit Pistons,2013,1st round
+Max Strus, Small Forward, Right,1996-03-28,No College,2019-11-22,4,https://www.basketball-reference.com/req/202106291/images/headshots/strusma01.jpg,196,97,Not Drafted,Not Drafted,Not Drafted
+Tyus Jones, Point Guard, Right,1996-05-10,Duke,2015-11-10,8,https://www.basketball-reference.com/req/202106291/images/headshots/jonesty01.jpg,183,88,Cleveland Cavaliers,2015,1st round
+Dorian Finney-Smith, Power Forward and Small Forward, Right,1993-05-04,Florida,2016-10-26,7,https://www.basketball-reference.com/req/202106291/images/headshots/finnedo01.jpg,201,99,Not Drafted,Not Drafted,Not Drafted
+Doug McDermott, Small Forward and Power Forward, Right,1992-01-03,Creighton,2014-10-29,9,https://www.basketball-reference.com/req/202106291/images/headshots/mcderdo01.jpg,201,102,Denver Nuggets,2014,1st round
+Anthony Edwards, Shooting Guard, Right,2001-08-05,Georgia,2020-12-23,3,https://www.basketball-reference.com/req/202106291/images/headshots/edwaran01.jpg,193,102,Minnesota Timberwolves,2020,1st round
+Wendell Carter Jr., Center and Power Forward, Right,1999-04-16,Duke,2018-10-18,5,https://www.basketball-reference.com/req/202106291/images/headshots/cartewe01.jpg,208,122,Chicago Bulls,2018,1st round
+Gary Harris, Shooting Guard, Right,1994-09-14,Michigan State,2014-11-14,9,https://www.basketball-reference.com/req/202106291/images/headshots/harriga01.jpg,193,95,Chicago Bulls,2014,1st round
+Josh Hart, Small Forward and Shooting Guard, Right,1995-03-06,Villanova,2017-10-20,6,https://www.basketball-reference.com/req/202106291/images/headshots/hartjo01.jpg,196,97,Utah Jazz,2017,1st round
+Naz Reid, Center, Right,1999-08-26,LSU,2019-12-08,4,https://www.basketball-reference.com/req/202106291/images/headshots/reidna01.jpg,206,119,Not Drafted,Not Drafted,Not Drafted
+Steven Adams, Center, Right,1993-07-20,Pitt,2013-10-30,10,https://www.basketball-reference.com/req/202106291/images/headshots/adamsst01.jpg,211,120,Oklahoma City Thunder,2013,1st round
+Brandon Clarke, Power Forward, Right,1996-09-19,No College,2019-10-23,4,https://www.basketball-reference.com/req/202106291/images/headshots/clarkbr01.jpg,203,97,Oklahoma City Thunder,2019,1st round
+Marvin Bagley III, Power Forward and Center, Left,1999-03-14,Duke,2018-10-17,5,https://www.basketball-reference.com/req/202106291/images/headshots/baglema01.jpg,211,106,Sacramento Kings,2018,1st round
+Grant Williams, Power Forward, Right,1998-11-30,Tennessee,2019-10-23,4,https://www.basketball-reference.com/req/202106291/images/headshots/willigr01.jpg,198,107,Boston Celtics,2019,1st round
+Dennis Schröder, Point Guard and Shooting Guard, Right,1993-09-15,No College,2013-10-30,10,https://www.basketball-reference.com/req/202106291/images/headshots/schrode01.jpg,190,78,Atlanta Hawks,2013,1st round
+Daniel Gafford, Center, Right,1998-10-01,Arkansas,2019-10-26,4,https://www.basketball-reference.com/req/202106291/images/headshots/gaffoda01.jpg,208,106,Chicago Bulls,2019,2nd round
+Kelly Olynyk, Center and Power Forward, Right,1991-04-19,Gonzaga,2013-10-30,10,https://www.basketball-reference.com/req/202106291/images/headshots/olynyke01.jpg,211,108,Dallas Mavericks,2013,1st round
+Victor Wembanyama, Power Forward, Right,2004-01-04,No College,2023-10-25,0,https://www.basketball-reference.com/req/202106291/images/headshots/wembavi01.jpg,224,94,San Antonio Spurs,2023,1st round
+James Wiseman, Center, Left,2001-03-31,Memphis,2020-12-22,2,https://www.basketball-reference.com/req/202106291/images/headshots/wisemja01.jpg,213,108,Golden State Warriors,2020,1st round
+Devonte' Graham, Point Guard, Right,1995-02-22,Kansas,2018-10-22,5,https://www.basketball-reference.com/req/202106291/images/headshots/grahade01.jpg,185,88,Atlanta Hawks,2018,2nd round
+Richaun Holmes, Center and Power Forward, Right,1993-10-15,Bowling Green,2015-10-28,8,https://www.basketball-reference.com/req/202106291/images/headshots/holmeri01.jpg,208,106,Philadelphia 76ers,2015,2nd round
+Herbert Jones, Power Forward, Left,1998-10-06,Alabama,2021-10-20,2,https://www.basketball-reference.com/req/202106291/images/headshots/joneshe01.jpg,203,95,New Orleans Pelicans,2021,2nd round
+Austin Reaves, Shooting Guard, Right,1998-05-29,No College,2021-10-22,2,https://www.basketball-reference.com/req/202106291/images/headshots/reaveau01.jpg,196,93,Not Drafted,Not Drafted,Not Drafted
+Chris Boucher," Power Forward, Center, and Small Forward", Right,1993-01-11,Oregon,2018-03-14,6,https://www.basketball-reference.com/req/202106291/images/headshots/bouchch01.jpg,206,90,Not Drafted,Not Drafted,Not Drafted
+Bobby Portis, Power Forward and Center, Right,1995-02-10,Arkansas,2015-11-03,8,https://www.basketball-reference.com/req/202106291/images/headshots/portibo01.jpg,208,113,Chicago Bulls,2015,1st round
+Nicolas Batum," Small Forward, Power Forward, and Shooting Guard", Right,1988-12-14,No College,2008-10-28,15,https://www.basketball-reference.com/req/202106291/images/headshots/batumni01.jpg,203,104,Houston Rockets,2008,1st round
+Robert Covington," Small Forward, Power Forward, and Center", Right,1990-12-14,Tennessee State,2014-01-18,10,https://www.basketball-reference.com/req/202106291/images/headshots/covinro01.jpg,201,94,Not Drafted,Not Drafted,Not Drafted
+Paolo Banchero, Power Forward, Right,2002-11-12,Duke,2022-10-19,1,https://www.basketball-reference.com/req/202106291/images/headshots/banchpa01.jpg,208,113,Orlando Magic,2022,1st round
+Robert Williams, Center, Right,1997-10-17,Texas A&amp;M,2018-10-22,5,https://www.basketball-reference.com/req/202106291/images/headshots/williro04.jpg,206,107,Boston Celtics,2018,1st round
+Coby White, Point Guard and Shooting Guard, Right,2000-02-16,UNC,2019-10-23,4,https://www.basketball-reference.com/req/202106291/images/headshots/whiteco01.jpg,196,88,Chicago Bulls,2019,1st round
+Cade Cunningham, Point Guard and Shooting Guard, Right,2001-09-25,Oklahoma State,2021-10-30,2,https://www.basketball-reference.com/req/202106291/images/headshots/cunnica01.jpg,198,99,Detroit Pistons,2021,1st round
+Talen Horton-Tucker, Shooting Guard, Right,2000-11-25,Iowa State,2019-12-08,4,https://www.basketball-reference.com/req/202106291/images/headshots/hortota01.jpg,193,106,Orlando Magic,2019,2nd round
+P.J. Tucker," Power Forward, Small Forward, and Shooting Guard", Right,1985-05-05,Texas,2006-11-01,12,https://www.basketball-reference.com/req/202106291/images/headshots/tuckepj01.jpg,196,111,Toronto Raptors,2006,2nd round
+Reggie Bullock, Small Forward and Shooting Guard, Right,1991-03-16,UNC,2013-10-29,10,https://www.basketball-reference.com/req/202106291/images/headshots/bullore01.jpg,198,92,Los Angeles Clippers,2013,1st round
+Maxi Kleber, Power Forward, Right,1992-01-29,No College,2017-10-21,6,https://www.basketball-reference.com/req/202106291/images/headshots/klebima01.jpg,208,108,Not Drafted,Not Drafted,Not Drafted
+Joe Ingles, Small Forward and Power Forward, Left,1987-10-02,No College,2014-10-29,9,https://www.basketball-reference.com/req/202106291/images/headshots/inglejo01.jpg,203,99,Not Drafted,Not Drafted,Not Drafted
+Ivica Zubac, Center, Right,1997-03-18,No College,2016-11-02,7,https://www.basketball-reference.com/req/202106291/images/headshots/zubaciv01.jpg,213,108,Los Angeles Lakers,2016,2nd round
+LaMelo Ball, Point Guard, Right,2001-08-22,No College,2020-12-23,3,https://www.basketball-reference.com/req/202106291/images/headshots/ballla01.jpg,201,81,Charlotte Hornets,2020,1st round
+Donte DiVincenzo, Shooting Guard, Right,1997-01-31,Villanova,2018-10-17,5,https://www.basketball-reference.com/req/202106291/images/headshots/divindo01.jpg,193,92,Milwaukee Bucks,2018,1st round
+Brandon Miller, Small Forward, Right,2002-11-22,Alabama,2023-10-25,0,https://www.basketball-reference.com/req/202106291/images/headshots/millebr02.jpg,206,91,Charlotte Hornets,2023,1st round
+Terance Mann, Shooting Guard and Small Forward, Right,1996-10-18,Florida State,2019-10-24,4,https://www.basketball-reference.com/req/202106291/images/headshots/mannte01.jpg,196,97,Los Angeles Clippers,2019,2nd round
+Gabe Vincent, Point Guard, Right,1996-06-14,UC Santa Barbara,2020-01-27,4,https://www.basketball-reference.com/req/202106291/images/headshots/vincega01.jpg,190,88,Not Drafted,Not Drafted,Not Drafted
+Matisse Thybulle, Shooting Guard and Small Forward, Right,1997-03-04,Washington,2019-10-23,4,https://www.basketball-reference.com/req/202106291/images/headshots/thybuma01.jpg,196,91,Boston Celtics,2019,1st round
+Alec Burks, Shooting Guard and Small Forward, Right,1991-07-20,Colorado,2011-12-27,12,https://www.basketball-reference.com/req/202106291/images/headshots/burksal01.jpg,198,97,Utah Jazz,2011,1st round
+Chet Holmgren, Power Forward, Right,2002-05-01,Gonzaga,2023-10-25,0,https://www.basketball-reference.com/req/202106291/images/headshots/holmgch01.jpg,213,88,Oklahoma City Thunder,2022,1st round
+Larry Nance Jr., Center and Power Forward, Right,1993-01-01,Wyoming,2015-11-06,8,https://www.basketball-reference.com/req/202106291/images/headshots/nancela02.jpg,201,111,Los Angeles Lakers,2015,1st round
+Landry Shamet, Shooting Guard, Right,1997-03-13,Wichita State,2018-10-16,5,https://www.basketball-reference.com/req/202106291/images/headshots/shamela01.jpg,193,86,Philadelphia 76ers,2018,1st round
+Al Horford, Center, Right,1986-06-03,Florida,2007-11-02,16,https://www.basketball-reference.com/req/202106291/images/headshots/horfoal01.jpg,206,108,Atlanta Hawks,2007,1st round
+Malik Monk, Shooting Guard, Right,1998-02-04,Kentucky,2017-10-18,6,https://www.basketball-reference.com/req/202106291/images/headshots/monkma01.jpg,190,90,Charlotte Hornets,2017,1st round
+Tre Jones, Point Guard, Right,2000-01-08,Duke,2020-12-30,3,https://www.basketball-reference.com/req/202106291/images/headshots/jonestr01.jpg,185,83,San Antonio Spurs,2020,2nd round
+Jalen Green, Shooting Guard, Right,2002-02-09,No College,2021-10-20,2,https://www.basketball-reference.com/req/202106291/images/headshots/greenja05.jpg,193,80,Houston Rockets,2021,1st round
+Patrick Williams, Power Forward, Right,2001-08-26,Florida State,2020-12-23,3,https://www.basketball-reference.com/req/202106291/images/headshots/willipa01.jpg,201,97,Chicago Bulls,2020,1st round
+Monte Morris, Point Guard, Right,1995-06-27,Iowa State,2017-12-12,6,https://www.basketball-reference.com/req/202106291/images/headshots/morrimo01.jpg,188,83,Denver Nuggets,2017,2nd round
+Scoot Henderson, Point Guard, Right,2004-02-03,No College,2023-10-25,0,https://www.basketball-reference.com/req/202106291/images/headshots/hendesc01.jpg,190,91,Portland Trail Blazers,2023,1st round
+Nic Claxton, Center, Left,1999-04-17,Georgia,2019-11-08,4,https://www.basketball-reference.com/req/202106291/images/headshots/claxtni01.jpg,211,97,Brooklyn Nets,2019,2nd round
+Jeff Green," Power Forward, Small Forward, and Center", Right,1986-08-28,Georgetown,2007-10-31,15,https://www.basketball-reference.com/req/202106291/images/headshots/greenje02.jpg,203,106,Boston Celtics,2007,1st round
+Royce O'Neale, Small Forward, Right,1993-06-05,No College,2017-10-21,6,https://www.basketball-reference.com/req/202106291/images/headshots/onealro01.jpg,193,102,Not Drafted,Not Drafted,Not Drafted
+Alex Caruso, Point Guard and Shooting Guard, Right,1994-02-28,Texas A&amp;M,2017-10-19,6,https://www.basketball-reference.com/req/202106291/images/headshots/carusal01.jpg,193,84,Not Drafted,Not Drafted,Not Drafted
+Victor Oladipo, Shooting Guard and Point Guard, Right,1992-05-04,Indiana,2013-10-29,10,https://www.basketball-reference.com/req/202106291/images/headshots/oladivi01.jpg,193,96,Orlando Magic,2013,1st round
+Pat Connaughton, Shooting Guard and Small Forward, Right,1993-01-06,Notre Dame,2015-10-30,8,https://www.basketball-reference.com/req/202106291/images/headshots/connapa01.jpg,196,94,Brooklyn Nets,2015,2nd round
+Jabari Smith Jr., Power Forward, Right,2003-05-13,Auburn,2022-10-19,1,https://www.basketball-reference.com/req/202106291/images/headshots/smithja05.jpg,208,99,Houston Rockets,2022,1st round
+Isaiah Hartenstein, Center and Power Forward, Left,1998-05-05,No College,2018-10-17,5,https://www.basketball-reference.com/req/202106291/images/headshots/harteis01.jpg,213,113,Houston Rockets,2017,2nd round
+Kyle Anderson, Small Forward and Power Forward, Right,1993-09-20,UCLA,2014-11-06,9,https://www.basketball-reference.com/req/202106291/images/headshots/anderky01.jpg,206,104,San Antonio Spurs,2014,1st round
+Daniel Theis, Center, Right,1992-04-04,No College,2017-10-18,6,https://www.basketball-reference.com/req/202106291/images/headshots/theisda01.jpg,203,111,Not Drafted,Not Drafted,Not Drafted
+Grayson Allen, Shooting Guard, Right,1995-10-08,Duke,2018-10-22,5,https://www.basketball-reference.com/req/202106291/images/headshots/allengr01.jpg,193,89,Utah Jazz,2018,1st round
+Isaac Okoro, Small Forward and Shooting Guard, Right,2001-01-26,Auburn,2020-12-23,3,https://www.basketball-reference.com/req/202106291/images/headshots/okorois01.jpg,196,102,Cleveland Cavaliers,2020,1st round
+Evan Mobley, Power Forward, Right,2001-06-18,USC,2021-10-20,2,https://www.basketball-reference.com/req/202106291/images/headshots/mobleev01.jpg,213,97,Cleveland Cavaliers,2021,1st round
+Amen Thompson, Small Forward, Right,2003-01-30,No College,2023-10-25,0,https://www.basketball-reference.com/req/202106291/images/headshots/thompam01.jpg,201,94,Houston Rockets,2023,1st round
+Georges Niang, Power Forward, Right,1993-06-17,Iowa State,2016-10-28,7,https://www.basketball-reference.com/req/202106291/images/headshots/niangge01.jpg,201,104,Indiana Pacers,2016,2nd round
+Gary Payton II," Point Guard, Shooting Guard, and Small Forward", Left,1992-12-01,Oregon State,2017-04-02,7,https://www.basketball-reference.com/req/202106291/images/headshots/paytoga02.jpg,190,86,Not Drafted,Not Drafted,Not Drafted
+T.J. McConnell, Point Guard, Right,1992-03-25,No College,2015-10-28,8,https://www.basketball-reference.com/req/202106291/images/headshots/mccontj01.jpg,185,86,Not Drafted,Not Drafted,Not Drafted
+Keegan Murray, Small Forward, Right,2000-08-19,Iowa,2022-10-22,1,https://www.basketball-reference.com/req/202106291/images/headshots/murrake02.jpg,203,97,Sacramento Kings,2022,1st round
+Delon Wright, Point Guard and Shooting Guard, Right,1992-04-26,Utah,2015-11-01,8,https://www.basketball-reference.com/req/202106291/images/headshots/wrighde01.jpg,196,83,Toronto Raptors,2015,1st round
+Onyeka Okongwu, Center, Right,2000-12-11,USC,2021-01-15,3,https://www.basketball-reference.com/req/202106291/images/headshots/okongon01.jpg,203,106,Atlanta Hawks,2020,1st round
+Scottie Barnes, Small Forward and Power Forward, Right,2001-08-01,Florida State,2021-10-20,2,https://www.basketball-reference.com/req/202106291/images/headshots/barnesc01.jpg,206,102,Toronto Raptors,2021,1st round
+Jock Landale, Center, Right,1995-10-25,Saint Mary\'s,2021-10-20,2,https://www.basketball-reference.com/req/202106291/images/headshots/landajo01.jpg,211,116,Not Drafted,Not Drafted,Not Drafted
+Trey Lyles, Power Forward, Right,1995-11-05,Kentucky,2015-10-28,8,https://www.basketball-reference.com/req/202106291/images/headshots/lylestr01.jpg,206,106,Utah Jazz,2015,1st round
+De'Anthony Melton, Point Guard and Shooting Guard, Right,1998-05-28,USC,2018-10-22,5,https://www.basketball-reference.com/req/202106291/images/headshots/meltode01.jpg,188,90,Houston Rockets,2018,2nd round
+Moritz Wagner, Center, Right,1997-04-26,Michigan,2018-11-17,5,https://www.basketball-reference.com/req/202106291/images/headshots/wagnemo01.jpg,211,111,Los Angeles Lakers,2018,1st round
+Thaddeus Young, Power Forward, Left,1988-06-21,Georgia Tech,2007-11-07,16,https://www.basketball-reference.com/req/202106291/images/headshots/youngth01.jpg,203,106,Philadelphia 76ers,2007,1st round
+Ausar Thompson, Small Forward, Right,2003-01-30,No College,2023-10-25,0,https://www.basketball-reference.com/req/202106291/images/headshots/thompau01.jpg,201,97,Detroit Pistons,2023,1st round
+Miles Bridges, Small Forward and Power Forward, Left,1998-03-21,Michigan State,2018-10-17,4,https://www.basketball-reference.com/req/202106291/images/headshots/bridgmi02.jpg,198,102,Los Angeles Clippers,2018,1st round
+Vasilije Micić, Point Guard, Right,1994-01-13,No College,,0,https://www.basketball-reference.com/req/202106291/images/headshots/micicva01.jpg,196,90,Philadelphia 76ers,2014,2nd round
+Paul Reed, Center and Power Forward, Right,1999-06-14,DePaul,2021-01-04,3,https://www.basketball-reference.com/req/202106291/images/headshots/reedpa01.jpg,206,95,Philadelphia 76ers,2020,2nd round
+Zach Collins, Center and Power Forward, Right,1997-11-19,Gonzaga,2017-10-20,5,https://www.basketball-reference.com/req/202106291/images/headshots/colliza01.jpg,211,113,Sacramento Kings,2017,1st round
+Jaden Ivey, Shooting Guard, Right,2002-02-13,Purdue,2022-10-19,1,https://www.basketball-reference.com/req/202106291/images/headshots/iveyja01.jpg,193,88,Detroit Pistons,2022,1st round
+Cody Martin, Small Forward, Right,1995-09-28,No College,2019-10-25,4,https://www.basketball-reference.com/req/202106291/images/headshots/martico01.jpg,196,92,Charlotte Hornets,2019,2nd round
+Kevon Looney, Center and Power Forward, Right,1996-02-06,UCLA,2016-01-27,8,https://www.basketball-reference.com/req/202106291/images/headshots/looneke01.jpg,206,100,Golden State Warriors,2015,1st round
+Killian Hayes, Point Guard, Left,2001-07-27,No College,2020-12-23,3,https://www.basketball-reference.com/req/202106291/images/headshots/hayeski01.jpg,196,88,Detroit Pistons,2020,1st round
+Jalen Suggs, Shooting Guard and Point Guard, Right,2001-06-03,Gonzaga,2021-10-20,2,https://www.basketball-reference.com/req/202106291/images/headshots/suggsja01.jpg,193,92,Orlando Magic,2021,1st round
+Anthony Black, Point Guard, Right,2004-01-20,Arkansas,2023-10-25,0,https://www.basketball-reference.com/req/202106291/images/headshots/blackan01.jpg,201,89,Orlando Magic,2023,1st round
+Khem Birch, Center, Right,1992-09-28,No College,2017-10-21,6,https://www.basketball-reference.com/req/202106291/images/headshots/birchkh01.jpg,206,105,Not Drafted,Not Drafted,Not Drafted
+Bennedict Mathurin, Shooting Guard, Right,2002-06-19,Arizona,2022-10-19,1,https://www.basketball-reference.com/req/202106291/images/headshots/mathube01.jpg,198,95,Indiana Pacers,2022,1st round
+Obi Toppin, Power Forward, Right,1998-03-04,Dayton,2020-12-23,3,https://www.basketball-reference.com/req/202106291/images/headshots/toppiob01.jpg,206,99,New York Knicks,2020,1st round
+Caleb Martin, Small Forward, Right,1995-09-28,No College,2019-10-25,4,https://www.basketball-reference.com/req/202106291/images/headshots/martica02.jpg,196,92,Not Drafted,Not Drafted,Not Drafted
+Danilo Gallinari," Small Forward, Power Forward, and Shooting Guard", Right,1988-08-08,No College,2008-10-29,13,https://www.basketball-reference.com/req/202106291/images/headshots/gallida01.jpg,208,105,New York Knicks,2008,1st round
+John Wall, Point Guard, Right,1990-09-06,Kentucky,2010-10-28,11,https://www.basketball-reference.com/req/202106291/images/headshots/walljo01.jpg,190,95,Washington Wizards,2010,1st round
+Patty Mills, Point Guard and Shooting Guard, Right,1988-08-11,Saint Mary\'s,2010-01-04,14,https://www.basketball-reference.com/req/202106291/images/headshots/millspa02.jpg,185,81,Portland Trail Blazers,2009,2nd round
+Cedi Osman, Small Forward, Right,1995-04-08,No College,2017-10-20,6,https://www.basketball-reference.com/req/202106291/images/headshots/osmande01.jpg,201,104,Minnesota Timberwolves,2015,2nd round
+Bilal Coulibaly, Small Forward, Right,2004-07-26,No College,2023-10-25,0,https://www.basketball-reference.com/req/202106291/images/headshots/coulibi01.jpg,198,88,Indiana Pacers,2023,1st round
+Josh Giddey, Power Forward and Small Forward, Right,2002-10-10,No College,2021-10-20,2,https://www.basketball-reference.com/req/202106291/images/headshots/giddejo01.jpg,203,95,Oklahoma City Thunder,2021,1st round
+Cameron Payne, Point Guard and Shooting Guard, Left,1994-08-08,Murray State,2015-11-01,8,https://www.basketball-reference.com/req/202106291/images/headshots/payneca01.jpg,185,83,Oklahoma City Thunder,2015,1st round
+Jae'Sean Tate, Small Forward and Power Forward, Left,1995-10-28,Ohio State,2020-12-26,3,https://www.basketball-reference.com/req/202106291/images/headshots/tateja01.jpg,193,104,Not Drafted,Not Drafted,Not Drafted
+Ayo Dosunmu, Shooting Guard, Right,2000-01-17,Illinois,2021-10-20,2,https://www.basketball-reference.com/req/202106291/images/headshots/dosunay01.jpg,196,90,Chicago Bulls,2021,2nd round
+Rudy Gay, Small Forward and Power Forward, Right,1986-08-17,UConn,2006-11-01,17,https://www.basketball-reference.com/req/202106291/images/headshots/gayru01.jpg,203,113,Houston Rockets,2006,1st round
+Sasha Vezenkov, Power Forward, Left,1995-08-06,No College,2023-10-25,0,https://www.basketball-reference.com/req/202106291/images/headshots/vezenal01.jpg,206,102,Brooklyn Nets,2017,2nd round
+Shaedon Sharpe, Shooting Guard, Right,2003-05-30,Kentucky,2022-10-19,1,https://www.basketball-reference.com/req/202106291/images/headshots/sharpsh01.jpg,198,90,Portland Trail Blazers,2022,1st round
+Otto Porter Jr., Small Forward and Power Forward, Right,1993-06-03,Georgetown,2013-12-06,10,https://www.basketball-reference.com/req/202106291/images/headshots/porteot01.jpg,203,89,Washington Wizards,2013,1st round
+Deni Avdija, Small Forward, Right,2001-01-03,No College,2020-12-23,3,https://www.basketball-reference.com/req/202106291/images/headshots/avdijde01.jpg,206,95,Washington Wizards,2020,1st round
+Nassir Little, Small Forward and Power Forward, Right,2000-02-11,UNC,2019-10-25,4,https://www.basketball-reference.com/req/202106291/images/headshots/littlna01.jpg,196,99,Portland Trail Blazers,2019,1st round
+Jevon Carter, Point Guard, Right,1995-09-14,West Virginia,2018-12-15,5,https://www.basketball-reference.com/req/202106291/images/headshots/carteje01.jpg,185,90,Memphis Grizzlies,2018,2nd round
+Kenrich Williams, Power Forward and Small Forward, Right,1994-12-02,TCU,2018-10-17,5,https://www.basketball-reference.com/req/202106291/images/headshots/willike04.jpg,198,95,Not Drafted,Not Drafted,Not Drafted
+Ricky Rubio, Point Guard, Right,1990-10-21,No College,2011-12-26,12,https://www.basketball-reference.com/req/202106291/images/headshots/rubiori01.jpg,188,86,Minnesota Timberwolves,2009,1st round
+Jarace Walker, Power Forward, Right,2003-09-04,Houston,2023-10-25,0,https://www.basketball-reference.com/req/202106291/images/headshots/walkeja02.jpg,203,108,Washington Wizards,2023,1st round
+Jonathan Kuminga, Power Forward and Small Forward, Right,2002-10-06,No College,2021-10-30,2,https://www.basketball-reference.com/req/202106291/images/headshots/kuminjo01.jpg,203,95,Golden State Warriors,2021,1st round
+Devin Vassell, Shooting Guard and Small Forward, Right,2000-08-23,Florida State,2020-12-23,3,https://www.basketball-reference.com/req/202106291/images/headshots/vassede01.jpg,196,90,San Antonio Spurs,2020,1st round
+Tyrese Haliburton, Point Guard and Shooting Guard, Right,2000-02-29,Iowa State,2020-12-23,3,https://www.basketball-reference.com/req/202106291/images/headshots/halibty01.jpg,196,83,Sacramento Kings,2020,1st round
+Dyson Daniels, Point Guard, Right,2003-03-17,No College,2022-10-19,1,https://www.basketball-reference.com/req/202106291/images/headshots/daniedy01.jpg,203,90,New Orleans Pelicans,2022,1st round
+JaVale McGee, Center, Right,1988-01-19,Nevada,2008-10-29,15,https://www.basketball-reference.com/req/202106291/images/headshots/mcgeeja01.jpg,213,122,Washington Wizards,2008,1st round
+Kira Lewis Jr., Point Guard, Right,2001-04-06,Alabama,2020-12-29,3,https://www.basketball-reference.com/req/202106291/images/headshots/lewiski01.jpg,185,77,New Orleans Pelicans,2020,1st round
+Dean Wade, Power Forward, Right,1996-11-20,Kansas State,2019-11-18,4,https://www.basketball-reference.com/req/202106291/images/headshots/wadede01.jpg,206,103,Not Drafted,Not Drafted,Not Drafted
+Aaron Nesmith, Small Forward, Right,1999-10-16,Vanderbilt,2020-12-25,3,https://www.basketball-reference.com/req/202106291/images/headshots/nesmiaa01.jpg,196,97,Boston Celtics,2020,1st round
+Taylor Hendricks, Power Forward, Right,2003-11-22,Central Florida,2023-10-25,0,https://www.basketball-reference.com/req/202106291/images/headshots/hendrita01.jpg,206,95,Utah Jazz,2023,1st round
+Cole Anthony, Point Guard, Right,2000-05-15,UNC,2020-12-23,3,https://www.basketball-reference.com/req/202106291/images/headshots/anthoco01.jpg,188,83,Orlando Magic,2020,1st round
+Franz Wagner, Small Forward, Right,2001-08-27,Michigan,2021-10-20,2,https://www.basketball-reference.com/req/202106291/images/headshots/wagnefr01.jpg,206,102,Orlando Magic,2021,1st round
+Furkan Korkmaz, Shooting Guard, Right,1997-07-24,No College,2017-11-11,6,https://www.basketball-reference.com/req/202106291/images/headshots/korkmfu01.jpg,201,91,Philadelphia 76ers,2016,1st round
+Jeremy Sochan, Power Forward, Right,2003-05-20,Baylor,2022-10-19,1,https://www.basketball-reference.com/req/202106291/images/headshots/sochaje01.jpg,206,104,San Antonio Spurs,2022,1st round
+Cason Wallace, Shooting Guard, Right,2003-11-07,Kentucky,2023-10-25,0,https://www.basketball-reference.com/req/202106291/images/headshots/wallaca01.jpg,193,87,Dallas Mavericks,2023,1st round
+Isaiah Stewart, Center, Right,2001-05-22,Washington,2020-12-28,3,https://www.basketball-reference.com/req/202106291/images/headshots/stewais01.jpg,203,113,Portland Trail Blazers,2020,1st round
+Chuma Okeke, Small Forward and Power Forward, Right,1998-08-18,Auburn,2020-12-23,3,https://www.basketball-reference.com/req/202106291/images/headshots/okekech01.jpg,198,103,Orlando Magic,2019,1st round
+Davion Mitchell, Point Guard, Right,1998-09-05,No College,2021-10-20,2,https://www.basketball-reference.com/req/202106291/images/headshots/mitchda01.jpg,188,92,Sacramento Kings,2021,1st round
+Johnny Davis, Shooting Guard, Right,2002-02-27,Wisconsin,2022-10-25,1,https://www.basketball-reference.com/req/202106291/images/headshots/davisjo06.jpg,196,88,Washington Wizards,2022,1st round
+Jalen Smith, Power Forward and Center, Right,2000-03-16,Maryland,2020-12-23,3,https://www.basketball-reference.com/req/202106291/images/headshots/smithja04.jpg,208,97,Phoenix Suns,2020,1st round
+Jett Howard, Small Forward, Right,2003-09-14,Michigan,2023-10-25,0,https://www.basketball-reference.com/req/202106291/images/headshots/howarje01.jpg,203,97,Orlando Magic,2023,1st round
+Aleksej Pokusevski, Power Forward, Right,2001-12-26,No College,2020-12-26,3,https://www.basketball-reference.com/req/202106291/images/headshots/pokusal01.jpg,213,86,Minnesota Timberwolves,2020,1st round
+Nick Richards, Center and Power Forward, Right,1997-11-29,Kentucky,2020-12-30,3,https://www.basketball-reference.com/req/202106291/images/headshots/richani01.jpg,213,111,New Orleans Pelicans,2020,2nd round
+Shake Milton, Shooting Guard, Right,1996-09-26,SMU,2018-11-30,5,https://www.basketball-reference.com/req/202106291/images/headshots/miltosh01.jpg,196,92,Dallas Mavericks,2018,2nd round
+Mason Plumlee, Center,,1990-03-05,Duke,2013-11-03,10,https://www.basketball-reference.com/req/202106291/images/headshots/plumlma01.jpg,211,115,Brooklyn Nets,2013,1st round
+Reggie Jackson, Point Guard and Shooting Guard, Right,1990-04-16,Boston College,2011-12-31,12,https://www.basketball-reference.com/req/202106291/images/headshots/jacksre01.jpg,188,94,Oklahoma City Thunder,2011,1st round
+Ziaire Williams, Small Forward, Right,2001-09-12,Stanford,2021-10-20,2,https://www.basketball-reference.com/req/202106291/images/headshots/willizi02.jpg,203,97,New Orleans Pelicans,2021,1st round
+Ousmane Dieng, Power Forward, Right,2003-05-21,No College,2022-10-19,1,https://www.basketball-reference.com/req/202106291/images/headshots/diengou01.jpg,208,97,New York Knicks,2022,1st round
+Dereck Lively II, Center, Right,2004-02-12,Duke,2023-10-25,0,https://www.basketball-reference.com/req/202106291/images/headshots/livelde01.jpg,216,104,Oklahoma City Thunder,2023,1st round
+Josh Green, Shooting Guard, Right,2000-11-16,Arizona,2020-12-23,3,https://www.basketball-reference.com/req/202106291/images/headshots/greenjo02.jpg,196,90,Dallas Mavericks,2020,1st round
+Jarred Vanderbilt, Power Forward, Left,1999-04-03,Kentucky,2019-01-25,5,https://www.basketball-reference.com/req/202106291/images/headshots/vandeja01.jpg,206,97,Orlando Magic,2018,2nd round
+Nickeil Alexander-Walker, Shooting Guard, Right,1998-09-02,Virginia Tech,2019-10-22,4,https://www.basketball-reference.com/req/202106291/images/headshots/alexani01.jpg,198,92,Brooklyn Nets,2019,1st round
+James Bouknight, Shooting Guard, Right,2000-09-18,UConn,2021-10-22,2,https://www.basketball-reference.com/req/202106291/images/headshots/bouknja01.jpg,196,86,Charlotte Hornets,2021,1st round
+Jalen Williams, Shooting Guard, Right,2001-04-14,Santa Clara,2022-10-19,1,https://www.basketball-reference.com/req/202106291/images/headshots/willija06.jpg,198,88,Oklahoma City Thunder,2022,1st round
+Saddiq Bey, Small Forward, Right,1999-04-09,Villanova,2020-12-26,3,https://www.basketball-reference.com/req/202106291/images/headshots/beysa01.jpg,201,97,Brooklyn Nets,2020,1st round
+Gradey Dick, Shooting Guard, Right,2003-11-20,Kansas,2023-10-25,0,https://www.basketball-reference.com/req/202106291/images/headshots/dickgr01.jpg,203,92,Toronto Raptors,2023,1st round
+Jalen McDaniels, Small Forward, Right,1998-01-31,San Diego State,2019-10-25,4,https://www.basketball-reference.com/req/202106291/images/headshots/mcdanja01.jpg,206,92,Charlotte Hornets,2019,2nd round
+Taurean Prince, Power Forward and Small Forward, Right,1994-03-22,Baylor,2016-10-27,7,https://www.basketball-reference.com/req/202106291/images/headshots/princta02.jpg,201,98,Utah Jazz,2016,1st round
+Precious Achiuwa, Center and Power Forward, Right,1999-09-19,Memphis,2020-12-23,3,https://www.basketball-reference.com/req/202106291/images/headshots/achiupr01.jpg,203,102,Miami Heat,2020,1st round
+Tyrese Maxey, Shooting Guard and Point Guard, Right,2000-11-04,Kentucky,2020-12-23,3,https://www.basketball-reference.com/req/202106291/images/headshots/maxeyty01.jpg,188,90,Philadelphia 76ers,2020,1st round
+Joshua Primo, Shooting Guard and Small Forward, Right,2002-12-24,Alabama,2021-10-20,2,https://www.basketball-reference.com/req/202106291/images/headshots/primojo01.jpg,198,86,San Antonio Spurs,2021,1st round
+Jalen Duren, Center, Right,2003-11-18,Memphis,2022-10-19,1,https://www.basketball-reference.com/req/202106291/images/headshots/durenja01.jpg,208,113,Charlotte Hornets,2022,1st round
+Dewayne Dedmon, Center, Right,1989-08-12,USC,2013-11-18,10,https://www.basketball-reference.com/req/202106291/images/headshots/dedmode01.jpg,213,111,Not Drafted,Not Drafted,Not Drafted
+Danuel House Jr., Small Forward and Shooting Guard, Right,1993-06-07,Texas A&amp;M,2016-11-11,7,https://www.basketball-reference.com/req/202106291/images/headshots/houseda01.jpg,198,99,Not Drafted,Not Drafted,Not Drafted
+Jordan Hawkins, Shooting Guard, Right,2002-04-29,UConn,2023-10-25,0,https://www.basketball-reference.com/req/202106291/images/headshots/hawkijo01.jpg,196,88,New Orleans Pelicans,2023,1st round
+Zeke Nnaji, Power Forward, Right,2001-01-09,Arizona,2020-12-28,3,https://www.basketball-reference.com/req/202106291/images/headshots/nnajize01.jpg,206,108,Denver Nuggets,2020,1st round
+Immanuel Quickley, Shooting Guard and Point Guard, Right,1999-06-17,Kentucky,2020-12-23,3,https://www.basketball-reference.com/req/202106291/images/headshots/quickim01.jpg,190,86,Oklahoma City Thunder,2020,1st round
+Chris Duarte, Small Forward and Shooting Guard, Right,1997-06-13,Oregon,2021-10-20,2,https://www.basketball-reference.com/req/202106291/images/headshots/duartch01.jpg,198,86,Indiana Pacers,2021,1st round
+Ochai Agbaji, Shooting Guard, Right,2000-04-20,Kansas,2022-10-19,1,https://www.basketball-reference.com/req/202106291/images/headshots/agbajoc01.jpg,196,97,Cleveland Cavaliers,2022,1st round
+Kobe Bufkin, Shooting Guard, Left,2003-09-21,Michigan,,0,https://www.basketball-reference.com/req/202106291/images/headshots/bufkiko01.jpg,193,88,Atlanta Hawks,2023,1st round
+Payton Pritchard, Point Guard and Shooting Guard, Right,1998-01-28,Oregon,2020-12-23,3,https://www.basketball-reference.com/req/202106291/images/headshots/pritcpa01.jpg,185,88,Boston Celtics,2020,1st round
+Seth Curry, Shooting Guard and Point Guard, Right,1990-08-23,No College,2014-01-05,9,https://www.basketball-reference.com/req/202106291/images/headshots/curryse01.jpg,188,83,Not Drafted,Not Drafted,Not Drafted
+Dwight Powell, Center and Power Forward, Right,1991-07-20,Stanford,2014-11-14,9,https://www.basketball-reference.com/req/202106291/images/headshots/poweldw01.jpg,208,108,2014 NBA Draft,2014,2nd round
+Troy Brown Jr., Small Forward, Right,1999-07-28,Oregon,2018-10-24,5,https://www.basketball-reference.com/req/202106291/images/headshots/browntr01.jpg,198,97,Washington Wizards,2018,1st round
+Moses Moody, Shooting Guard, Right,2002-05-31,Arkansas,2021-10-19,2,https://www.basketball-reference.com/req/202106291/images/headshots/moodymo01.jpg,198,92,Golden State Warriors,2021,1st round
+Mark Williams, Center, Right,2001-12-16,Duke,2022-10-19,1,https://www.basketball-reference.com/req/202106291/images/headshots/willima07.jpg,216,109,Charlotte Hornets,2022,1st round
+Jaden McDaniels, Small Forward and Power Forward, Right,2000-09-29,Washington,2020-12-27,3,https://www.basketball-reference.com/req/202106291/images/headshots/mcdanja02.jpg,206,83,Los Angeles Lakers,2020,1st round
+Keyonte George, Shooting Guard, Right,2003-11-08,Baylor,2023-10-25,0,https://www.basketball-reference.com/req/202106291/images/headshots/georgke01.jpg,193,83,Utah Jazz,2023,1st round
+Malachi Flynn, Point Guard, Right,1998-05-10,No College,2020-12-23,3,https://www.basketball-reference.com/req/202106291/images/headshots/flynnma01.jpg,185,79,Toronto Raptors,2020,1st round
+Desmond Bane, Shooting Guard, Right,1998-06-25,TCU,2020-12-23,3,https://www.basketball-reference.com/req/202106291/images/headshots/banede01.jpg,196,97,Boston Celtics,2020,1st round
+Russell Westbrook, Point Guard, Right,1988-11-12,UCLA,2008-10-29,15,https://www.basketball-reference.com/req/202106291/images/headshots/westbru01.jpg,190,90,Seattle SuperSonics,2008,1st round
+Kevin Love, Power Forward and Center, Right,1988-09-07,UCLA,2008-10-29,15,https://www.basketball-reference.com/req/202106291/images/headshots/loveke01.jpg,203,113,Memphis Grizzlies,2008,1st round
+Corey Kispert, Small Forward, Right,1999-03-03,Gonzaga,2021-10-22,2,https://www.basketball-reference.com/req/202106291/images/headshots/kispeco01.jpg,201,99,Washington Wizards,2021,1st round
+AJ Griffin, Small Forward, Right,2003-08-25,Duke,2022-10-23,1,https://www.basketball-reference.com/req/202106291/images/headshots/griffaj01.jpg,198,100,Atlanta Hawks,2022,1st round
+Jalen Hood-Schifino, Shooting Guard, Right,2003-06-19,Indiana,,0,https://www.basketball-reference.com/req/202106291/images/headshots/hoodsja01.jpg,198,97,Los Angeles Lakers,2023,1st round
+Amir Coffey, Shooting Guard and Small Forward, Left,1997-06-17,Minnesota,2019-12-31,4,https://www.basketball-reference.com/req/202106291/images/headshots/coffeam01.jpg,201,95,Not Drafted,Not Drafted,Not Drafted
+Alperen Şengün, Center, Right,2002-07-25,No College,2021-10-20,2,https://www.basketball-reference.com/req/202106291/images/headshots/sengual01.jpg,206,106,Oklahoma City Thunder,2021,1st round
+Tari Eason, Power Forward, Right,2001-05-10,No College,2022-10-19,1,https://www.basketball-reference.com/req/202106291/images/headshots/easonta01.jpg,203,97,Houston Rockets,2022,1st round
+Jaime Jaquez Jr., Small Forward, Right,2001-02-18,UCLA,2023-10-25,0,https://www.basketball-reference.com/req/202106291/images/headshots/jaqueja01.jpg,201,102,Miami Heat,2023,1st round
+Mike Muscala, Center and Power Forward, Right,1991-07-01,Bucknell,2014-03-02,10,https://www.basketball-reference.com/req/202106291/images/headshots/muscami01.jpg,208,108,Dallas Mavericks,2013,2nd round
+Andre Drummond, Center, Right,1993-08-10,UConn,2012-10-31,11,https://www.basketball-reference.com/req/202106291/images/headshots/drumman01.jpg,208,126,Detroit Pistons,2012,1st round
+Derrick Jones Jr., Small Forward and Power Forward, Left,1997-02-15,UNLV,2016-11-19,7,https://www.basketball-reference.com/req/202106291/images/headshots/jonesde02.jpg,196,95,Not Drafted,Not Drafted,Not Drafted
+Trey Murphy III, Small Forward, Right,2000-06-18,No College,2021-10-20,2,https://www.basketball-reference.com/req/202106291/images/headshots/murphtr02.jpg,206,93,Memphis Grizzlies,2021,1st round
+Brandin Podziemski, Shooting Guard, Left,2003-02-25,No College,,0,https://www.basketball-reference.com/req/202106291/images/headshots/podzibr01.jpg,196,92,Golden State Warriors,2023,1st round
+Dalen Terry, Shooting Guard, Right,2002-07-12,Arizona,2022-10-22,1,https://www.basketball-reference.com/req/202106291/images/headshots/terryda01.jpg,201,88,Chicago Bulls,2022,1st round
+Cam Whitmore, Small Forward, Right,2004-07-08,Villanova,2023-10-25,0,https://www.basketball-reference.com/req/202106291/images/headshots/whitmca01.jpg,201,105,Houston Rockets,2023,1st round
+Jake LaRavia, Power Forward, Right,2001-11-03,No College,2022-10-19,1,https://www.basketball-reference.com/req/202106291/images/headshots/laravja01.jpg,203,106,Minnesota Timberwolves,2022,1st round
+Derrick Rose, Point Guard, Right,1988-10-04,Memphis,2008-10-28,14,https://www.basketball-reference.com/req/202106291/images/headshots/rosede01.jpg,190,90,Chicago Bulls,2008,1st round
+Eric Gordon, Shooting Guard and Small Forward, Right,1988-12-25,Indiana,2008-10-29,15,https://www.basketball-reference.com/req/202106291/images/headshots/gordoer01.jpg,190,97,Los Angeles Clippers,2008,1st round
+Tre Mann, Point Guard, Right,2001-02-03,Florida,2021-10-20,2,https://www.basketball-reference.com/req/202106291/images/headshots/manntr01.jpg,190,80,Oklahoma City Thunder,2021,1st round
+Noah Clowney, Power Forward, Right,2004-07-14,Alabama,,0,https://www.basketball-reference.com/req/202106291/images/headshots/clownno01.jpg,208,95,Brooklyn Nets,2023,1st round
+Malaki Branham, Shooting Guard, Right,2003-05-12,Ohio State,2022-10-30,1,https://www.basketball-reference.com/req/202106291/images/headshots/branhma01.jpg,196,81,San Antonio Spurs,2022,1st round
+Kai Jones, Center, Right,2001-01-19,Texas,2021-10-22,2,https://www.basketball-reference.com/req/202106291/images/headshots/joneska01.jpg,211,98,New York Knicks,2021,1st round
+Simone Fontecchio, Small Forward, Right,1995-12-09,No College,2022-10-19,1,https://www.basketball-reference.com/req/202106291/images/headshots/fontesi01.jpg,203,94,Not Drafted,Not Drafted,Not Drafted
+Julian Champagnie, Small Forward, Right,2001-06-29,St. John\'s,2022-11-22,1,https://www.basketball-reference.com/req/202106291/images/headshots/champju02.jpg,203,99,Not Drafted,Not Drafted,Not Drafted
+Jordan Nwora, Small Forward, Right,1998-09-09,Louisville,2020-12-25,3,https://www.basketball-reference.com/req/202106291/images/headshots/nworajo01.jpg,203,102,Milwaukee Bucks,2020,2nd round
+Dante Exum, Point Guard and Shooting Guard, Right,1995-07-13,No College,2014-10-29,0,https://www.basketball-reference.com/req/202106291/images/headshots/exumda01.jpg,196,97,Utah Jazz,2014,1st round
+Dariq Whitehead, Small Forward, Right,2004-08-01,Duke,,0,https://www.basketball-reference.com/req/202106291/images/headshots/whiteda01.jpg,201,99,Brooklyn Nets,2023,1st round
+Christian Braun, Shooting Guard, Right,2001-04-17,Kansas,2022-10-19,1,https://www.basketball-reference.com/req/202106291/images/headshots/braunch01.jpg,201,98,Denver Nuggets,2022,1st round
+Jalen Johnson, Small Forward and Power Forward, Right,2001-12-18,Duke,2021-10-21,2,https://www.basketball-reference.com/req/202106291/images/headshots/johnsja05.jpg,206,99,Atlanta Hawks,2021,1st round
+Josh Richardson, Shooting Guard and Small Forward, Right,1993-09-15,Tennessee,2015-11-05,8,https://www.basketball-reference.com/req/202106291/images/headshots/richajo01.jpg,196,90,Miami Heat,2015,2nd round
+Kris Murray, Small Forward, Left,2000-08-19,Iowa,2023-10-25,0,https://www.basketball-reference.com/req/202106291/images/headshots/murrakr01.jpg,203,99,Portland Trail Blazers,2023,1st round
+Andrew Nicholson, Power Forward, Right,1989-12-08,St. Bonaventure,2012-11-02,0,https://www.basketball-reference.com/req/202106291/images/headshots/nichoan01.jpg,206,113,Orlando Magic,2012,1st round
+Walker Kessler, Center, Right,2001-07-26,No College,2022-10-19,1,https://www.basketball-reference.com/req/202106291/images/headshots/kesslwa01.jpg,216,111,Memphis Grizzlies,2022,1st round
+Josh Okogie, Shooting Guard, Right,1998-09-01,Georgia Tech,2018-10-20,5,https://www.basketball-reference.com/req/202106291/images/headshots/okogijo01.jpg,193,96,Minnesota Timberwolves,2018,1st round
+Keon Johnson, Shooting Guard, Right,2002-03-10,Tennessee,2021-11-07,2,https://www.basketball-reference.com/req/202106291/images/headshots/johnske07.jpg,196,84,New York Knicks,2021,1st round
+Omer Yurtseven, Center, Right,1998-06-19,No College,2021-10-21,2,https://www.basketball-reference.com/req/202106291/images/headshots/yurtsom01.jpg,213,119,Not Drafted,Not Drafted,Not Drafted
+Olivier-Maxence Prosper, Power Forward, Right,2002-07-03,No College,,0,https://www.basketball-reference.com/req/202106291/images/headshots/prospol01.jpg,203,104,Sacramento Kings,2023,1st round
+David Roddy, Power Forward, Right,2001-03-27,Colorado State,2022-10-19,1,https://www.basketball-reference.com/req/202106291/images/headshots/roddyda01.jpg,198,115,Philadelphia 76ers,2022,1st round
+Christian Wood, Power Forward and Center, Right,1995-09-27,UNLV,2015-10-28,7,https://www.basketball-reference.com/req/202106291/images/headshots/woodch01.jpg,208,97,Not Drafted,Not Drafted,Not Drafted
+Isaiah Jackson, Center, Right,2002-01-10,Kentucky,2021-10-23,2,https://www.basketball-reference.com/req/202106291/images/headshots/jacksis01.jpg,208,93,Los Angeles Lakers,2021,1st round
+Marcus Sasser, Point Guard, Right,2000-09-21,Houston,2023-10-25,0,https://www.basketball-reference.com/req/202106291/images/headshots/sassema01.jpg,188,88,Memphis Grizzlies,2023,1st round
+MarJon Beauchamp, Small Forward, Right,2000-10-12,Yakima Valley Community College,2022-10-22,1,https://www.basketball-reference.com/req/202106291/images/headshots/beaucma01.jpg,198,90,Milwaukee Bucks,2022,1st round
+Charles Bassey, Center, Right,2000-10-28,Western Kentucky,2021-10-20,2,https://www.basketball-reference.com/req/202106291/images/headshots/bassech01.jpg,211,106,Philadelphia 76ers,2021,2nd round
+Usman Garuba, Power Forward and Center, Right,2002-03-09,No College,2021-10-20,2,https://www.basketball-reference.com/req/202106291/images/headshots/garubus01.jpg,203,99,Houston Rockets,2021,1st round
+Damian Jones, Center, Right,1995-06-30,Vanderbilt,2016-12-10,7,https://www.basketball-reference.com/req/202106291/images/headshots/jonesda03.jpg,211,111,Golden State Warriors,2016,1st round
+Kris Dunn, Point Guard, Right,1994-03-18,Providence,2016-10-26,7,https://www.basketball-reference.com/req/202106291/images/headshots/dunnkr01.jpg,190,92,Minnesota Timberwolves,2016,1st round
+Bruno Fernando, Center, Right,1998-08-15,Maryland,2019-10-24,4,https://www.basketball-reference.com/req/202106291/images/headshots/fernabr01.jpg,206,108,Philadelphia 76ers,2019,2nd round
+Willy Hernangómez, Center, Right,1994-05-27,No College,2016-10-25,7,https://www.basketball-reference.com/req/202106291/images/headshots/hernawi01.jpg,211,113,Philadelphia 76ers,2015,2nd round
+Ben Sheppard, Shooting Guard, Right,2001-07-16,Belmont,2023-10-25,0,https://www.basketball-reference.com/req/202106291/images/headshots/sheppbe01.jpg,198,86,Indiana Pacers,2023,1st round
+Thomas Bryant, Center, Right,1997-07-31,Indiana,2017-12-23,6,https://www.basketball-reference.com/req/202106291/images/headshots/bryanth01.jpg,208,112,Utah Jazz,2017,2nd round
+Torrey Craig, Small Forward and Power Forward, Right,1990-12-19,USC Upstate,2017-11-28,6,https://www.basketball-reference.com/req/202106291/images/headshots/craigto01.jpg,201,100,Not Drafted,Not Drafted,Not Drafted
+Damion Lee, Shooting Guard, Right,1992-10-21,No College,2018-03-13,6,https://www.basketball-reference.com/req/202106291/images/headshots/leeda03.jpg,196,95,Not Drafted,Not Drafted,Not Drafted
+Blake Wesley, Shooting Guard, Right,2003-03-16,Notre Dame,2022-10-28,1,https://www.basketball-reference.com/req/202106291/images/headshots/weslebl01.jpg,196,83,San Antonio Spurs,2022,1st round
+Josh Christopher, Shooting Guard, Right,2001-12-08,Arizona State,2021-10-20,2,https://www.basketball-reference.com/req/202106291/images/headshots/chrisjo01.jpg,196,97,Houston Rockets,2021,1st round
+Nick Smith Jr., Shooting Guard, Right,2004-04-18,Arkansas,2023-10-25,0,https://www.basketball-reference.com/req/202106291/images/headshots/smithni01.jpg,196,83,Charlotte Hornets,2023,1st round
+Brice Sensabaugh, Small Forward, Right,2003-10-30,Ohio State,2023-10-25,0,https://www.basketball-reference.com/req/202106291/images/headshots/sensabr01.jpg,198,106,Utah Jazz,2023,1st round
+Ty Jerome, Shooting Guard, Right,1997-07-08,Virginia,2019-12-02,4,https://www.basketball-reference.com/req/202106291/images/headshots/jeromty01.jpg,196,88,Philadelphia 76ers,2019,1st round
+Julian Strawther, Small Forward, Right,2002-04-18,Gonzaga,,0,https://www.basketball-reference.com/req/202106291/images/headshots/strawju01.jpg,201,92,Indiana Pacers,2023,1st round
+Wendell Moore Jr., Shooting Guard, Right,2001-09-18,Duke,2022-10-23,1,https://www.basketball-reference.com/req/202106291/images/headshots/moorewe01.jpg,196,96,Dallas Mavericks,2022,1st round
+Kobe Brown, Power Forward, Right,2000-01-01,Missouri,2023-10-25,0,https://www.basketball-reference.com/req/202106291/images/headshots/brownko01.jpg,201,113,Los Angeles Clippers,2023,1st round
+Luke Kornet, Center, Right,1995-07-15,Vanderbilt,2018-02-08,6,https://www.basketball-reference.com/req/202106291/images/headshots/kornelu01.jpg,218,113,Not Drafted,Not Drafted,Not Drafted
+John Konchar, Shooting Guard and Small Forward, Right,1996-03-22,Purdue-Fort Wayne,2019-11-09,4,https://www.basketball-reference.com/req/202106291/images/headshots/konchjo01.jpg,196,95,Not Drafted,Not Drafted,Not Drafted
+Quentin Grimes, Shooting Guard, Right,2000-05-08,No College,2021-10-20,2,https://www.basketball-reference.com/req/202106291/images/headshots/grimequ01.jpg,196,92,Los Angeles Clippers,2021,1st round
+Nikola Jović, Power Forward, Right,2003-06-09,No College,2022-10-26,1,https://www.basketball-reference.com/req/202106291/images/headshots/jovicni01.jpg,208,94,Miami Heat,2022,1st round
+Drew Eubanks, Center and Power Forward, Right,1997-02-01,Oregon State,2018-10-20,5,https://www.basketball-reference.com/req/202106291/images/headshots/eubandr01.jpg,206,111,Not Drafted,Not Drafted,Not Drafted
+Keita Bates-Diop, Small Forward and Power Forward, Right,1996-01-23,Ohio State,2018-10-26,5,https://www.basketball-reference.com/req/202106291/images/headshots/bateske01.jpg,203,103,Minnesota Timberwolves,2018,2nd round
+Yuta Watanabe, Small Forward, Left,1994-10-13,George Washington,2018-10-27,5,https://www.basketball-reference.com/req/202106291/images/headshots/watanyu01.jpg,206,97,Not Drafted,Not Drafted,Not Drafted
+Patrick Baldwin Jr., Small Forward, Right,2002-11-18,UW-Milwaukee,2022-10-30,1,https://www.basketball-reference.com/req/202106291/images/headshots/baldwpa01.jpg,206,99,Golden State Warriors,2022,1st round
+TyTy Washington Jr., Point Guard, Right,2001-11-15,Kentucky,2022-11-14,1,https://www.basketball-reference.com/req/202106291/images/headshots/washity02.jpg,190,89,Memphis Grizzlies,2022,1st round
+Jordan McLaughlin, Point Guard, Right,1996-04-09,USC,2019-11-06,4,https://www.basketball-reference.com/req/202106291/images/headshots/mclaujo01.jpg,180,83,Not Drafted,Not Drafted,Not Drafted
+Bones Hyland, Point Guard and Shooting Guard, Right,2000-09-14,VCU,2021-10-25,2,https://www.basketball-reference.com/req/202106291/images/headshots/hylanbo01.jpg,190,78,Denver Nuggets,2021,1st round
+Peyton Watson, Shooting Guard, Right,2002-09-11,UCLA,2022-10-19,1,https://www.basketball-reference.com/req/202106291/images/headshots/watsope01.jpg,203,90,Oklahoma City Thunder,2022,1st round
+Cam Thomas, Shooting Guard, Right,2001-10-13,LSU,2021-10-19,2,https://www.basketball-reference.com/req/202106291/images/headshots/thomaca02.jpg,193,95,Brooklyn Nets,2021,1st round
+Vlatko Čančar, Power Forward, Right,1997-04-10,No College,2019-10-31,4,https://www.basketball-reference.com/req/202106291/images/headshots/cancavl01.jpg,203,107,Denver Nuggets,2017,2nd round
+Jaden Springer, Shooting Guard, Right,2002-09-25,Tennessee,2021-10-20,2,https://www.basketball-reference.com/req/202106291/images/headshots/sprinja01.jpg,193,92,Philadelphia 76ers,2021,1st round
+Day'Ron Sharpe, Center and Power Forward, Right,2001-11-06,UNC,2021-10-24,2,https://www.basketball-reference.com/req/202106291/images/headshots/sharpda01.jpg,211,120,Phoenix Suns,2021,1st round
+Santi Aldama, Power Forward, Right,2001-01-10,Loyola (MD),2021-10-27,2,https://www.basketball-reference.com/req/202106291/images/headshots/aldamsa01.jpg,211,101,Utah Jazz,2021,1st round
+Jaxson Hayes, Center, Right,2000-05-23,Texas,2019-10-28,4,https://www.basketball-reference.com/req/202106291/images/headshots/hayesja02.jpg,211,99,Atlanta Hawks,2019,1st round
+Cam Reddish, Small Forward, Right,1999-09-01,Duke,2019-10-24,4,https://www.basketball-reference.com/req/202106291/images/headshots/reddica01.jpg,203,98,Atlanta Hawks,2019,1st round
+Oshae Brissett, Small Forward and Power Forward, Right,1998-06-20,Syracuse,2019-11-18,4,https://www.basketball-reference.com/req/202106291/images/headshots/brissos01.jpg,201,95,Not Drafted,Not Drafted,Not Drafted
+Andrew Nembhard, Shooting Guard, Right,2000-01-16,No College,2022-10-21,1,https://www.basketball-reference.com/req/202106291/images/headshots/nembhan01.jpg,196,87,Indiana Pacers,2022,2nd round
+Goga Bitadze, Center, Right,1999-07-20,No College,2019-10-26,4,https://www.basketball-reference.com/req/202106291/images/headshots/bitadgo01.jpg,211,113,Indiana Pacers,2019,1st round
+Luka Šamanić, Power Forward, Right,2000-01-09,No College,2020-03-06,3,https://www.basketball-reference.com/req/202106291/images/headshots/samanlu01.jpg,208,102,San Antonio Spurs,2019,1st round
+DaQuan Jeffries, Shooting Guard, Right,1997-08-30,No College,2019-11-15,4,https://www.basketball-reference.com/req/202106291/images/headshots/jeffrda01.jpg,196,104,Not Drafted,Not Drafted,Not Drafted
+Colby Jones, Shooting Guard, Right,2002-05-28,Xavier,2023-10-25,0,https://www.basketball-reference.com/req/202106291/images/headshots/jonesco02.jpg,198,92,Charlotte Hornets,2023,2nd round
+Taj Gibson, Power Forward and Center, Right,1985-06-24,USC,2009-10-29,14,https://www.basketball-reference.com/req/202106291/images/headshots/gibsota01.jpg,206,105,Chicago Bulls,2009,1st round
+Garrett Temple," Shooting Guard, Small Forward, and Point Guard", Right,1986-05-08,LSU,2010-02-09,13,https://www.basketball-reference.com/req/202106291/images/headshots/templga01.jpg,196,88,Not Drafted,Not Drafted,Not Drafted
+Sandro Mamukelashvili, Center and Power Forward, Left,1999-05-23,Seton Hall,2021-10-19,2,https://www.basketball-reference.com/req/202106291/images/headshots/mamuksa01.jpg,211,108,Indiana Pacers,2021,2nd round
+Alex Len, Center, Right,1993-06-16,Maryland,2013-10-30,10,https://www.basketball-reference.com/req/202106291/images/headshots/lenal01.jpg,213,113,Phoenix Suns,2013,1st round
+Bol Bol, Power Forward, Right,1999-11-16,Oregon,2020-08-01,4,https://www.basketball-reference.com/req/202106291/images/headshots/bolbo01.jpg,218,99,Miami Heat,2019,2nd round
+Chimezie Metu, Center and Power Forward, Right,1997-03-22,USC,2018-10-20,5,https://www.basketball-reference.com/req/202106291/images/headshots/metuch01.jpg,206,102,San Antonio Spurs,2018,2nd round
+Montrezl Harrell, Center and Power Forward, Right,1994-01-26,Louisville,2015-10-28,8,https://www.basketball-reference.com/req/202106291/images/headshots/harremo01.jpg,201,108,Houston Rockets,2015,2nd round
+Kelly Oubre Jr., Small Forward, Left,1995-12-09,Kansas,2015-10-30,8,https://www.basketball-reference.com/req/202106291/images/headshots/oubreke01.jpg,201,92,Atlanta Hawks,2015,1st round
+Patrick Beverley, Point Guard and Shooting Guard, Right,1988-07-12,Arkansas,2013-01-15,11,https://www.basketball-reference.com/req/202106291/images/headshots/beverpa01.jpg,185,81,Los Angeles Lakers,2009,2nd round
+Mo Bamba, Center, Right,1998-05-12,Texas,2018-10-17,5,https://www.basketball-reference.com/req/202106291/images/headshots/bambamo01.jpg,213,104,Orlando Magic,2018,1st round
+Trevelin Queen, Shooting Guard, Right,1997-02-25,No College,2021-12-18,2,https://www.basketball-reference.com/req/202106291/images/headshots/queentr01.jpg,198,86,Not Drafted,Not Drafted,Not Drafted
+Charlie Brown Jr., Shooting Guard, Right,1997-02-02,Saint Joseph\'s,2019-11-06,3,https://www.basketball-reference.com/req/202106291/images/headshots/brownch02.jpg,198,90,Not Drafted,Not Drafted,Not Drafted
+Ryan Arcidiacono, Point Guard, Right,1994-03-26,Villanova,2017-10-19,6,https://www.basketball-reference.com/req/202106291/images/headshots/arcidry01.jpg,190,88,Not Drafted,Not Drafted,Not Drafted
+Duane Washington Jr., Shooting Guard and Point Guard, Right,2000-03-24,Ohio State,2021-10-29,2,https://www.basketball-reference.com/req/202106291/images/headshots/washidu02.jpg,190,95,Not Drafted,Not Drafted,Not Drafted
+Cody Zeller, Center, Right,1992-10-05,Indiana,2013-10-30,10,https://www.basketball-reference.com/req/202106291/images/headshots/zelleco01.jpg,211,108,Charlotte Bobcats,2013,1st round
+Daishen Nix, Point Guard and Shooting Guard, Right,2002-02-13,No College,2021-11-29,2,https://www.basketball-reference.com/req/202106291/images/headshots/nixda01.jpg,196,101,Not Drafted,Not Drafted,Not Drafted
+Marques Bolden, Center, Right,1998-04-17,Duke,2020-02-01,2,https://www.basketball-reference.com/req/202106291/images/headshots/boldema01.jpg,208,112,Not Drafted,Not Drafted,Not Drafted
+Thanasis Antetokounmpo, Small Forward and Power Forward, Right,1992-07-18,No College,2016-01-29,5,https://www.basketball-reference.com/req/202106291/images/headshots/antetth01.jpg,198,99,New York Knicks,2014,2nd round
+Jae Crowder, Small Forward and Power Forward, Right,1990-07-06,Marquette,2012-10-30,11,https://www.basketball-reference.com/req/202106291/images/headshots/crowdja01.jpg,198,106,Cleveland Cavaliers,2012,2nd round
+Malik Beasley, Shooting Guard, Right,1996-11-26,Florida State,2016-11-05,7,https://www.basketball-reference.com/req/202106291/images/headshots/beaslma01.jpg,193,84,Denver Nuggets,2016,1st round
+Robin Lopez, Center, Right,1988-04-01,Stanford,2008-10-29,15,https://www.basketball-reference.com/req/202106291/images/headshots/lopezro01.jpg,213,127,Phoenix Suns,2008,1st round
+Nate Hinton, Shooting Guard and Small Forward, Right,1999-06-08,Houston,2021-01-03,2,https://www.basketball-reference.com/req/202106291/images/headshots/hintona01.jpg,196,95,Not Drafted,Not Drafted,Not Drafted
+Dario Šarić, Power Forward and Center, Right,1994-04-08,No College,2016-10-26,6,https://www.basketball-reference.com/req/202106291/images/headshots/saricda01.jpg,208,102,Orlando Magic,2014,1st round
+Cory Joseph, Point Guard and Shooting Guard, Right,1991-08-20,Texas,2011-12-26,12,https://www.basketball-reference.com/req/202106291/images/headshots/josepco01.jpg,190,90,San Antonio Spurs,2011,1st round
+DeAndre Jordan, Center, Left,1988-07-21,Texas A&amp;M,2008-11-01,15,https://www.basketball-reference.com/req/202106291/images/headshots/jordade01.jpg,211,120,Los Angeles Clippers,2008,2nd round
+Justin Holiday, Shooting Guard and Small Forward, Right,1989-04-05,Washington,2013-04-03,10,https://www.basketball-reference.com/req/202106291/images/headshots/holidju01.jpg,198,81,Not Drafted,Not Drafted,Not Drafted
+Markieff Morris, Power Forward, Right,1989-09-02,Kansas,2011-12-26,12,https://www.basketball-reference.com/req/202106291/images/headshots/morrima02.jpg,206,111,Phoenix Suns,2011,1st round
+Greg Brown III, Power Forward and Small Forward, Right,2001-09-01,Texas,2021-10-23,2,https://www.basketball-reference.com/req/202106291/images/headshots/browngr01.jpg,206,92,New Orleans Pelicans,2021,2nd round
+Darius Bazley, Center and Power Forward, Left,2000-06-12,No College,2019-10-23,4,https://www.basketball-reference.com/req/202106291/images/headshots/bazleda01.jpg,203,94,Utah Jazz,2019,1st round
+Harry Giles, Center and Power Forward, Right,1998-04-22,Duke,2018-10-17,0,https://www.basketball-reference.com/req/202106291/images/headshots/gilesha01.jpg,211,108,Portland Trail Blazers,2017,1st round
+Lonnie Walker IV, Shooting Guard, Right,1998-12-14,Miami (FL),2019-01-03,5,https://www.basketball-reference.com/req/202106291/images/headshots/walkelo01.jpg,193,92,San Antonio Spurs,2018,1st round
+Dennis Smith Jr., Point Guard, Right,1997-11-25,NC State,2017-10-18,6,https://www.basketball-reference.com/req/202106291/images/headshots/smithde03.jpg,188,92,Dallas Mavericks,2017,1st round
+Lamar Stevens, Power Forward and Small Forward, Right,1997-07-09,Penn State,2020-12-27,3,https://www.basketball-reference.com/req/202106291/images/headshots/stevela01.jpg,198,104,Not Drafted,Not Drafted,Not Drafted
+Wesley Matthews, Shooting Guard and Small Forward, Right,1986-10-14,Marquette,2009-10-28,14,https://www.basketball-reference.com/req/202106291/images/headshots/matthwe02.jpg,193,99,Not Drafted,Not Drafted,Not Drafted
+Danny Green, Shooting Guard and Small Forward, Right,1987-06-22,UNC,2009-11-12,14,https://www.basketball-reference.com/req/202106291/images/headshots/greenda02.jpg,198,97,Cleveland Cavaliers,2009,2nd round
+Boban Marjanović, Center, Right,1988-08-15,No College,2015-10-30,8,https://www.basketball-reference.com/req/202106291/images/headshots/marjabo01.jpg,221,131,Not Drafted,Not Drafted,Not Drafted
+Aaron Holiday, Point Guard, Right,1996-09-30,UCLA,2018-10-17,5,https://www.basketball-reference.com/req/202106291/images/headshots/holidaa01.jpg,183,83,Indiana Pacers,2018,1st round
+Tristan Thompson, Power Forward and Center,,1991-03-13,Texas,2011-12-26,12,https://www.basketball-reference.com/req/202106291/images/headshots/thomptr01.jpg,206,115,Cleveland Cavaliers,2011,1st round
+Frank Ntilikina, Point Guard and Shooting Guard, Right,1998-07-28,No College,2017-10-19,6,https://www.basketball-reference.com/req/202106291/images/headshots/ntilila01.jpg,193,90,New York Knicks,2017,1st round
+Terry Taylor, Power Forward, Left,1999-09-23,Austin Peay State University,2022-01-05,2,https://www.basketball-reference.com/req/202106291/images/headshots/taylote01.jpg,196,104,Not Drafted,Not Drafted,Not Drafted
+Trendon Watford, Power Forward and Small Forward, Right,2000-11-09,LSU,2021-11-14,2,https://www.basketball-reference.com/req/202106291/images/headshots/watfotr01.jpg,206,108,Not Drafted,Not Drafted,Not Drafted
+Svi Mykhailiuk, Small Forward, Right,1997-06-10,Kansas,2018-10-22,5,https://www.basketball-reference.com/req/202106291/images/headshots/mykhasv01.jpg,201,92,Los Angeles Lakers,2018,2nd round
+Dalano Banton, Point Guard, Right,1999-11-07,Nebraska,2021-10-20,2,https://www.basketball-reference.com/req/202106291/images/headshots/bantoda01.jpg,206,92,Toronto Raptors,2021,2nd round
+Caleb Houstan, Small Forward, Right,2003-01-09,Michigan,2022-10-19,1,https://www.basketball-reference.com/req/202106291/images/headshots/houstca01.jpg,203,92,Orlando Magic,2022,2nd round
+Jaylin Williams, Center, Right,2002-06-29,Arkansas,2022-10-23,1,https://www.basketball-reference.com/req/202106291/images/headshots/willija07.jpg,208,108,Oklahoma City Thunder,2022,2nd round
+Garrison Mathews, Shooting Guard, Right,1996-10-24,Lipscomb,2019-10-23,4,https://www.basketball-reference.com/req/202106291/images/headshots/mathega01.jpg,196,97,Not Drafted,Not Drafted,Not Drafted
+Anthony Gill, Power Forward, Right,1992-10-17,No College,2020-12-29,3,https://www.basketball-reference.com/req/202106291/images/headshots/gillan01.jpg,201,104,Not Drafted,Not Drafted,Not Drafted
+Isaiah Joe, Shooting Guard, Right,1999-07-02,Arkansas,2020-12-27,3,https://www.basketball-reference.com/req/202106291/images/headshots/joeis01.jpg,193,74,Philadelphia 76ers,2020,2nd round
+Sam Merrill, Shooting Guard, Right,1996-05-15,Utah State University,2020-12-23,3,https://www.basketball-reference.com/req/202106291/images/headshots/merrisa01.jpg,193,92,New Orleans Pelicans,2020,2nd round
+Naji Marshall, Small Forward, Right,1998-01-24,Xavier,2021-01-15,3,https://www.basketball-reference.com/req/202106291/images/headshots/marshna01.jpg,201,99,Not Drafted,Not Drafted,Not Drafted
+Xavier Tillman Sr., Center and Power Forward, Right,1999-01-12,Michigan State,2021-01-03,3,https://www.basketball-reference.com/req/202106291/images/headshots/tillmxa01.jpg,203,111,Sacramento Kings,2020,2nd round
+Kenyon Martin Jr., Small Forward, Right,2001-01-06,No College,2021-01-08,3,https://www.basketball-reference.com/req/202106291/images/headshots/martike04.jpg,198,97,Sacramento Kings,2020,2nd round
+Sam Hauser, Small Forward, Right,1997-12-08,No College,2021-11-20,2,https://www.basketball-reference.com/req/202106291/images/headshots/hausesa01.jpg,203,97,Not Drafted,Not Drafted,Not Drafted
+Kessler Edwards, Small Forward, Right,2000-08-09,Pepperdine,2021-11-16,2,https://www.basketball-reference.com/req/202106291/images/headshots/edwarke02.jpg,203,97,Brooklyn Nets,2021,2nd round
+Ish Wainright, Small Forward and Power Forward, Right,1994-09-12,Baylor,2021-11-19,2,https://www.basketball-reference.com/req/202106291/images/headshots/wainris01.jpg,198,113,Not Drafted,Not Drafted,Not Drafted
+Jericho Sims, Center and Power Forward, Right,1998-10-20,Texas,2021-10-20,2,https://www.basketball-reference.com/req/202106291/images/headshots/simsje01.jpg,208,111,New York Knicks,2021,2nd round
+Jordan Goodwin, Point Guard and Shooting Guard, Right,1998-10-23,Saint Louis,2021-12-28,2,https://www.basketball-reference.com/req/202106291/images/headshots/goodwjo01.jpg,190,90,Not Drafted,Not Drafted,Not Drafted
+Haywood Highsmith, Power Forward and Small Forward, Right,1996-12-09,Wheeling University,2019-01-08,3,https://www.basketball-reference.com/req/202106291/images/headshots/highsha01.jpg,201,99,Not Drafted,Not Drafted,Not Drafted
+A.J. Green, Shooting Guard, Right,1999-09-27,University of Northern Iowa,2022-10-22,1,https://www.basketball-reference.com/req/202106291/images/headshots/greenaj01.jpg,193,90,Not Drafted,Not Drafted,Not Drafted
+Jeremiah Robinson-Earl, Power Forward and Center, Right,2000-11-03,Villanova,2021-10-20,2,https://www.basketball-reference.com/req/202106291/images/headshots/robinje02.jpg,206,104,New York Knicks,2021,2nd round
+Miles McBride, Point Guard, Right,2000-09-08,West Virginia,2021-10-22,2,https://www.basketball-reference.com/req/202106291/images/headshots/mcbrimi01.jpg,188,90,Oklahoma City Thunder,2021,2nd round
+Isaiah Todd, Power Forward, Right,2001-10-17,No College,2021-10-25,2,https://www.basketball-reference.com/req/202106291/images/headshots/toddis01.jpg,208,99,Milwaukee Bucks,2021,2nd round
+Brandon Boston Jr., Small Forward and Shooting Guard, Right,2001-11-28,Kentucky,2021-10-25,2,https://www.basketball-reference.com/req/202106291/images/headshots/bostobr01.jpg,201,83,Memphis Grizzlies,2021,2nd round
+Isaiah Livers, Power Forward and Small Forward, Right,1998-07-28,Michigan,2021-12-16,2,https://www.basketball-reference.com/req/202106291/images/headshots/liveris01.jpg,201,104,Detroit Pistons,2021,2nd round
+Aaron Wiggins, Shooting Guard, Right,1999-01-02,Maryland,2021-11-14,2,https://www.basketball-reference.com/req/202106291/images/headshots/wiggiaa01.jpg,198,90,Oklahoma City Thunder,2021,2nd round
+Jose Alvarado, Point Guard, Right,1998-04-12,Georgia Tech,2021-11-03,2,https://www.basketball-reference.com/req/202106291/images/headshots/alvarjo01.jpg,183,81,Not Drafted,Not Drafted,Not Drafted
+JT Thor, Power Forward, Left,2002-08-26,Auburn,2021-10-22,2,https://www.basketball-reference.com/req/202106291/images/headshots/thorjt01.jpg,208,92,Detroit Pistons,2021,2nd round
+Jack White, Small Forward, Right,1997-08-05,Duke,2022-10-26,1,https://www.basketball-reference.com/req/202106291/images/headshots/whiteja03.jpg,201,102,Not Drafted,Not Drafted,Not Drafted
+E.J. Liddell, Power Forward, Right,2000-12-18,Ohio State,,0,https://www.basketball-reference.com/req/202106291/images/headshots/liddeej01.jpg,201,108,New Orleans Pelicans,2022,2nd round
+Justin Minaya, Small Forward, Left,1999-03-26,No College,2023-04-04,1,https://www.basketball-reference.com/req/202106291/images/headshots/minayju01.jpg,196,95,Not Drafted,Not Drafted,Not Drafted
+Cole Swider, Small Forward, Right,1999-05-08,No College,2022-10-18,1,https://www.basketball-reference.com/req/202106291/images/headshots/swideco01.jpg,206,99,Not Drafted,Not Drafted,Not Drafted
+Orlando Robinson, Center, Right,2000-07-10,Fresno State,2022-11-18,1,https://www.basketball-reference.com/req/202106291/images/headshots/robinor01.jpg,213,106,Not Drafted,Not Drafted,Not Drafted
+Stanley Umude, Shooting Guard, Right,1999-04-12,No College,2023-02-15,1,https://www.basketball-reference.com/req/202106291/images/headshots/umudest01.jpg,198,95,Not Drafted,Not Drafted,Not Drafted
+Leonard Miller, Small Forward, Left,2003-11-26,No College,,0,https://www.basketball-reference.com/req/202106291/images/headshots/millele01.jpg,208,95,San Antonio Spurs,2023,2nd round
+Kennedy Chandler, Point Guard, Right,2002-09-16,Tennessee,2022-10-22,1,https://www.basketball-reference.com/req/202106291/images/headshots/chandke01.jpg,183,77,San Antonio Spurs,2022,2nd round
+Jaden Hardy, Shooting Guard, Right,2002-07-05,No College,2022-10-22,1,https://www.basketball-reference.com/req/202106291/images/headshots/hardyja02.jpg,193,89,Sacramento Kings,2022,2nd round
+Xavier Cooks, Power Forward, Right,1995-08-19,Winthrop University,2023-03-18,1,https://www.basketball-reference.com/req/202106291/images/headshots/cooksxa01.jpg,203,83,Not Drafted,Not Drafted,Not Drafted
+Ryan Rollins, Point Guard, Right,2002-07-03,Toledo,2022-10-18,1,https://www.basketball-reference.com/req/202106291/images/headshots/rolliry01.jpg,193,81,Atlanta Hawks,2022,2nd round
+Christian Koloko, Center, Right,2000-06-20,Arizona,2022-10-19,1,https://www.basketball-reference.com/req/202106291/images/headshots/kolokch01.jpg,216,104,Toronto Raptors,2022,2nd round
+Josh Minott, Small Forward, Right,2002-11-25,Memphis,2022-11-28,1,https://www.basketball-reference.com/req/202106291/images/headshots/minotjo01.jpg,203,92,Charlotte Hornets,2022,2nd round
+Kenneth Lofton Jr., Power Forward, Left,2002-08-14,Louisiana Tech,2022-10-22,1,https://www.basketball-reference.com/req/202106291/images/headshots/loftoke01.jpg,201,124,Not Drafted,Not Drafted,Not Drafted
+Max Christie, Shooting Guard, Right,2003-02-10,Michigan State,2022-10-18,1,https://www.basketball-reference.com/req/202106291/images/headshots/chrisma02.jpg,198,86,Los Angeles Lakers,2022,2nd round
+Bryce McGowens, Shooting Guard, Right,2002-11-08,Nebraska,2022-10-19,1,https://www.basketball-reference.com/req/202106291/images/headshots/mcgowbr01.jpg,201,81,Minnesota Timberwolves,2022,2nd round
+Jabari Walker, Small Forward, Right,2002-07-30,Colorado,2022-10-24,1,https://www.basketball-reference.com/req/202106291/images/headshots/walkeja01.jpg,206,97,Portland Trail Blazers,2022,2nd round
+Jalen Pickett, Shooting Guard, Right,1999-10-22,No College,2023-10-24,0,https://www.basketball-reference.com/req/202106291/images/headshots/pickeja02.jpg,193,94,Indiana Pacers,2023,2nd round
+Julian Phillips, Small Forward, Right,2003-11-05,Tennessee,2023-10-25,0,https://www.basketball-reference.com/req/202106291/images/headshots/phillju01.jpg,203,89,Boston Celtics,2023,2nd round
+Eric Bledsoe, Point Guard and Shooting Guard, Right,1989-12-09,Kentucky,2010-10-27,0,https://www.basketball-reference.com/req/202106291/images/headshots/bledser01.jpg,185,97,Oklahoma City Thunder,2010,1st round
+Sidy Cissoko, Small Forward, Right,2004-04-02,No College,,0,https://www.basketball-reference.com/req/202106291/images/headshots/cissosi01.jpg,203,90,San Antonio Spurs,2023,2nd round
+Hunter Tyson, Power Forward, Right,2000-06-13,Clemson,,0,https://www.basketball-reference.com/req/202106291/images/headshots/tysonhu01.jpg,203,97,Oklahoma City Thunder,2023,2nd round
+Jordan Walsh, Small Forward, Right,2004-03-03,Arkansas,,0,https://www.basketball-reference.com/req/202106291/images/headshots/walshjo01.jpg,201,92,Sacramento Kings,2023,2nd round
+Rayan Rupert, Shooting Guard, Right,2004-05-31,No College,2023-10-25,0,https://www.basketball-reference.com/req/202106291/images/headshots/ruperra01.jpg,198,92,Portland Trail Blazers,2023,2nd round
+Chris Livingston, Small Forward, Right,2003-10-15,Kentucky,,0,https://www.basketball-reference.com/req/202106291/images/headshots/livinch01.jpg,198,99,Milwaukee Bucks,2023,2nd round
+Maxwell Lewis, Small Forward, Right,2002-07-27,Pepperdine,2023-10-24,0,https://www.basketball-reference.com/req/202106291/images/headshots/lewisma05.jpg,201,88,Denver Nuggets,2023,2nd round
+Trayce Jackson-Davis, Power Forward, Left,2000-02-22,Indiana,,0,https://www.basketball-reference.com/req/202106291/images/headshots/jackstr02.jpg,206,111,Washington Wizards,2023,2nd round
+Mouhamed Gueye, Power Forward, Right,2002-11-09,Washington State,,0,https://www.basketball-reference.com/req/202106291/images/headshots/gueyemo02.jpg,211,95,Charlotte Hornets,2023,2nd round
+Charles Bediako, Center, Right,2002-03-10,Alabama,,0,https://www.basketball-reference.com/req/202106291/images/headshots/bediach01.jpg,213,102,Not Drafted,Not Drafted,Not Drafted
+Toumani Camara, Power Forward, Left,2000-05-08,Dayton,2023-10-25,0,https://www.basketball-reference.com/req/202106291/images/headshots/camarto01.jpg,203,99,Phoenix Suns,2023,2nd round
+Duop Reath, Center, Right,1996-06-26,No College,,0,https://www.basketball-reference.com/req/202106291/images/headshots/reathdu01.jpg,211,111,Not Drafted,Not Drafted,Not Drafted
+Jacob Toppin, Small Forward, Right,2000-05-08,No College,,0,https://www.basketball-reference.com/req/202106291/images/headshots/toppija01.jpg,206,92,Not Drafted,Not Drafted,Not Drafted
+Andre Jackson Jr., Shooting Guard, Right,2001-11-13,UConn,,0,https://www.basketball-reference.com/req/202106291/images/headshots/jacksan01.jpg,198,95,Orlando Magic,2023,2nd round
+Dexter Dennis, Shooting Guard, Right,1999-02-09,No College,,0,https://www.basketball-reference.com/req/202106291/images/headshots/dennide01.jpg,196,95,Not Drafted,Not Drafted,Not Drafted
+Filip Petrušev, Center, Right,2000-04-15,Gonzaga,,0,https://www.basketball-reference.com/req/202106291/images/headshots/petrufi01.jpg,211,106,Philadelphia 76ers,2021,2nd round
+Nik Stauskas, Shooting Guard, Right,1993-10-07,Michigan,2014-10-29,6,https://www.basketball-reference.com/req/202106291/images/headshots/stausni01.jpg,198,92,Sacramento Kings,2014,1st round
+Juwan Morgan, Power Forward, Right,1997-04-17,Indiana,2019-11-27,3,https://www.basketball-reference.com/req/202106291/images/headshots/morgaju01.jpg,201,105,Not Drafted,Not Drafted,Not Drafted
+Malik Fitts, Power Forward, Right,1997-07-04,No College,2021-04-09,2,https://www.basketball-reference.com/req/202106291/images/headshots/fittsma01.jpg,203,104,Not Drafted,Not Drafted,Not Drafted
+Nerlens Noel, Center and Power Forward, Right,1994-04-10,Kentucky,2014-10-29,9,https://www.basketball-reference.com/req/202106291/images/headshots/noelne01.jpg,211,99,New Orleans Hornets,2013,1st round
+Didi Louzada, Small Forward and Shooting Guard, Right,1999-02-07,No College,2021-05-12,2,https://www.basketball-reference.com/req/202106291/images/headshots/louzama01.jpg,196,85,Atlanta Hawks,2019,2nd round
+Neemias Queta, Center, Right,1999-07-13,Utah State University,2021-12-17,2,https://www.basketball-reference.com/req/202106291/images/headshots/quetane01.jpg,213,111,Sacramento Kings,2021,2nd round
+Demetrius Jackson, Point Guard, Right,1994-09-07,Notre Dame,2016-11-06,0,https://www.basketball-reference.com/req/202106291/images/headshots/jacksde01.jpg,185,91,Boston Celtics,2016,2nd round

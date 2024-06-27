@@ -1,0 +1,66 @@
+Player: nombre del jugador.
+GS: partidos que jugó como titular.
+FG: tiros de campo encestados por partido.
+FGA: tiros de campos intentados por partido.
+FG%: porcentaje de tiros de campo encestados por partido.
+3P: tiros de tres puntos encestados por partido.
+3PA: tiros de tres puntos intentados por partido.
+3P%: porcentaje de tiros de tres puntos encestados por partido.
+2P: tiros de dos puntos encestados por partido. 
+2PA: tiros de dos puntos intentados por partido.
+2P%: porcentaje de tiros de dos puntos encestados por partido.
+eFG%: porcentaje efectivo de tiros de campo encestados por partido. Esta estadística ajusta el hecho de que un tiro de tres puntos vale un punto más que un tiro de dos puntos.
+FT: tiros libres encestados por partido.
+FTA: tiros libres intentados por partido.
+FT%: porcentaje de tiros libres encestados por partido.
+ORB: rebotes ofensivos por partido.
+DRB: rebotes defensivos por partido.
+TRB: rebotes totales por partido.
+AST: asistencias por partido.
+STL: robos por partido.
+BLK: tapas por partido.
+TOV: pérdidas por partido.
+PF: faltas personales por partido.
+PTS: puntos por partido.
+Season: temporada.
+PER: rating de eficiencia del jugador. Mide la producción estandarizada por minuto. El promedio de la liga es 15.
+TS%: porcentaje de tiro verdadero. Mide la eficiencia del tiro, teniendo en campo los tiros de tres, los tiros de dos y los tiros libres.
+3PAr: tasa de intentos de tres puntos. Porcentaje de tiros de tres puntos
+FTr: tasa de intentos de tiros libres. Cantidad de tiros libres intentados por tiros de campo intentados.
+ORB%: porcentaje de rebotes ofensivos. Porcentaje de rebotes ofensivos que el jugador agarra mientras está en la cancha.
+DRB%: porcentaje de rebotes defensivos. Porcentaje de rebotes defensivos que el jugador agarra mientras está en la cancha.
+TRB%: porcentaje de rebotes totales. Porcentaje de rebotes totales que el jugador agarra mientras está en la cancha.
+AST%: porcentaje de asistencias. Porcentaje de tiros de campos anotados por sus compañeros en el que el jugador asistió.
+STL%: porcentaje de robos. Porcentaje de las posesiones del oponente que terminan en robo por el jugador, mientras que está en la cancha.
+BLK%: porcentaje de tapas. Porcentaje de tiros de dos puntos intentados que fueron tapados por el jugador, mientras estaba en la cancha.
+TOV%: porcentaje de pérdidas. Porcentaje de pérdidas cometidas por el jugador cada 100 jugadas.
+USG%: porcentaje de uso. Porcentaje de jugadas que usaron al jugador mientras estaba en la cancha.
+OWS: cuota ofensiva de victorias. Número de victorias aportadas por el jugador debido a la ofensiva.
+DWS: cuota defensiva de victorias. Número de victorias aportadas por el jugador debido a la defensiva.
+WS: cuota de victorias. Número de victorias aportadas por el jugador.
+WS/48: cutos de victorias por cada cuarenta y ocho minutos. Número de victorias aportadas por el jugador por cada 48 minutos (el promedio de la liga es 0.1).
+OBPM: plus minus ofensivo. Cantidad de puntos ofensivos por cada 100 posesiones que un jugador contribuyó por encima de un jugador promedio de la liga.
+DBPM: plus minus defensivo. Cantidad de puntos defensivos por cada 100 posesiones que un jugador contribuyó por encima de un jugador promedio de la liga.
+BPM: plus minus general. Cantidad de puntos por cada cien posesiones que un jugador contribuyó por encima de un jugador promedio de la liga.
+VORP: valor por encima del jugador de reemplazo. Una estimación del box score de los puntos por 100 posesiones de EQUIPO que un jugador aportó por encima de un jugador de nivel de reemplazo (-2,0), traducido a un equipo medio y prorrateado a una temporada de 82 partidos.
+Pos: posición.
+Age: edad.
+Tm: equipo.
+G: partidos jugados en la temporada.
+MP: minutos jugados por partido.
+PG%: porcentaje de minutos jugando como base.
+SG%: porcentaje de minutos jugando como escolta.
+SF%: porcentaje de minutos jugando como alero.
+PF%: porcentaje de minutos jugando como ala-pivot.
+C%: porcentaje de minutos jugando como pivot.
+OnCourt: plus minus por cada cien posesiones (en cancha).
+On-Off: plus minus neto por cada cien posesiones.
+BadPass: pérdidas por partido a causa de un mal pase.
+LostBall: pérdidas por partido a causa de la pérdida del balón.
+Fouls Commited Shoot: faltas de tiro cometidas. 
+Fouls Commited Off: faltas ofensivas cometidas.
+Fouls Drawn Shoot: faltas de tiro recibidas.
+Fouls Drawn Off: faltas ofensivas recibidas.
+PGA: puntos generados por asistencias. Cantidad de puntos por partido en los que el jugador asistió. 
+And1: cantidad de tiros de campos anotados por partido en el que el jugador recibe una falta.
+Blkd: cantidad de tiros de campos intentados por partido que son tapados.
